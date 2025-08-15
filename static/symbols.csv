@@ -1,0 +1,2380 @@
+symbol,name
+RELIANCE.NS,Reliance Industries Limited
+TCS.NS,Tata Consultancy Services Limited
+HDFCBANK.NS,HDFC Bank Limited
+ICICIBANK.NS,ICICI Bank Limited
+BHARTIARTL.NS,Bharti Airtel Limited
+SBIN.NS,State Bank of India
+INFY.NS,Infosys Limited
+LICI.NS,Life Insurance Corporation Of India
+ITC.NS,ITC Limited
+HINDUNILVR.NS,Hindustan Unilever Limited
+LT.NS,Larsen & Toubro Limited
+BAJFINANCE.NS,Bajaj Finance Limited
+HCLTECH.NS,HCL Technologies Limited
+MARUTI.NS,Maruti Suzuki India Limited
+SUNPHARMA.NS,Sun Pharmaceutical Industries Limited
+ADANIENT.NS,Adani Enterprises Limited
+KOTAKBANK.NS,Kotak Mahindra Bank Limited
+TITAN.NS,Titan Company Limited
+ONGC.NS,Oil & Natural Gas Corporation Limited
+TATAMOTORS.NS,Tata Motors Limited
+NTPC.NS,NTPC Limited
+AXISBANK.NS,Axis Bank Limited
+DMART.NS,Avenue Supermarts Limited
+ADANIGREEN.NS,Adani Green Energy Limited
+ADANIPORTS.NS,Adani Ports and Special Economic Zone Limited
+ULTRACEMCO.NS,UltraTech Cement Limited
+ASIANPAINT.NS,Asian Paints Limited
+COALINDIA.NS,Coal India Limited
+BAJAJFINSV.NS,Bajaj Finserv Limited
+BAJAJ-AUTO.NS,Bajaj Auto Limited
+POWERGRID.NS,Power Grid Corporation of India Limited
+NESTLEIND.NS,Nestle India Limited
+WIPRO.NS,Wipro Limited
+M&M.NS,Mahindra & Mahindra Limited
+IOC.NS,Indian Oil Corporation Limited
+JIOFIN.NS,Jio Financial Services Limited
+HAL.NS,Hindustan Aeronautics Limited
+DLF.NS,DLF Limited
+ADANIPOWER.NS,Adani Power Limited
+JSWSTEEL.NS,JSW Steel Limited
+TATASTEEL.NS,Tata Steel Limited
+SIEMENS.NS,Siemens Limited
+IRFC.NS,Indian Railway Finance Corporation Limited
+VBL.NS,Varun Beverages Limited
+ZOMATO.NS,Zomato Limited
+PIDILITIND.NS,Pidilite Industries Limited
+GRASIM.NS,Grasim Industries Limited
+SBILIFE.NS,SBI Life Insurance Company Limited
+BEL.NS,Bharat Electronics Limited
+LTIM.NS,LTIMindtree Limited
+TRENT.NS,Trent Limited
+PNB.NS,Punjab National Bank
+INDIGO.NS,InterGlobe Aviation Limited
+BANKBARODA.NS,Bank of Baroda
+HDFCLIFE.NS,HDFC Life Insurance Company Limited
+ABB.NS,ABB India Limited
+BPCL.NS,Bharat Petroleum Corporation Limited
+PFC.NS,Power Finance Corporation Limited
+GODREJCP.NS,Godrej Consumer Products Limited
+TATAPOWER.NS,Tata Power Company Limited
+HINDALCO.NS,Hindalco Industries Limited
+HINDZINC.NS,Hindustan Zinc Limited
+TECHM.NS,Tech Mahindra Limited
+AMBUJACEM.NS,Ambuja Cements Limited
+INDUSINDBK.NS,IndusInd Bank Limited
+CIPLA.NS,Cipla Limited
+GAIL.NS,GAIL (India) Limited
+RECLTD.NS,REC Limited
+BRITANNIA.NS,Britannia Industries Limited
+UNIONBANK.NS,Union Bank of India
+ADANIENSOL.NS,Adani Energy Solutions Limited
+IOB.NS,Indian Overseas Bank
+LODHA.NS,Macrotech Developers Limited
+EICHERMOT.NS,Eicher Motors Limited
+CANBK.NS,Canara Bank
+TATACONSUM.NS,TATA CONSUMER PRODUCTS LIMITED
+DRREDDY.NS,Dr. Reddy's Laboratories Limited
+TVSMOTOR.NS,TVS Motor Company Limited
+ZYDUSLIFE.NS,Zydus Lifesciences Limited
+ATGL.NS,Adani Total Gas Limited
+VEDL.NS,Vedanta Limited
+CHOLAFIN.NS,Cholamandalam Investment and Finance Company Limited
+HAVELLS.NS,Havells India Limited
+HEROMOTOCO.NS,Hero MotoCorp Limited
+DABUR.NS,Dabur India Limited
+SHREECEM.NS,SHREE CEMENT LIMITED
+MANKIND.NS,Mankind Pharma Limited
+BAJAJHLDNG.NS,Bajaj Holdings & Investment Limited
+DIVISLAB.NS,Divi's Laboratories Limited
+APOLLOHOSP.NS,Apollo Hospitals Enterprise Limited
+NHPC.NS,NHPC Limited
+SHRIRAMFIN.NS,Shriram Finance Limited
+BOSCHLTD.NS,Bosch Limited
+TORNTPHARM.NS,Torrent Pharmaceuticals Limited
+ICICIPRULI.NS,ICICI Prudential Life Insurance Company Limited
+IDBI.NS,IDBI Bank Limited
+JSWENERGY.NS,JSW Energy Limited
+JINDALSTEL.NS,Jindal Steel & Power Limited
+BHEL.NS,Bharat Heavy Electricals Limited
+INDHOTEL.NS,The Indian Hotels Company Limited
+CUMMINSIND.NS,Cummins India Limited
+ICICIGI.NS,ICICI Lombard General Insurance Company Limited
+CGPOWER.NS,CG Power and Industrial Solutions Limited
+MCDOWELL-N.NS,United Spirits Limited
+HDFCAMC.NS,HDFC Asset Management Company Limited
+MAXHEALTH.NS,Max Healthcare Institute Limited
+SOLARINDS.NS,Solar Industries India Limited
+MOTHERSON.NS,Samvardhana Motherson International Limited
+INDUSTOWER.NS,Indus Towers Limited
+POLYCAB.NS,Polycab India Limited
+OFSS.NS,Oracle Financial Services Software Limited
+SRF.NS,SRF Limited
+IRCTC.NS,Indian Railway Catering And Tourism Corporation Limited
+COLPAL.NS,Colgate Palmolive (India) Limited
+LUPIN.NS,Lupin Limited
+NAUKRI.NS,Info Edge (India) Limited
+TIINDIA.NS,Tube Investments of India Limited
+INDIANB.NS,Indian Bank
+HINDPETRO.NS,Hindustan Petroleum Corporation Limited
+BERGEPAINT.NS,Berger Paints (I) Limited
+YESBANK.NS,Yes Bank Limited
+TORNTPOWER.NS,Torrent Power Limited
+OIL.NS,Oil India Limited
+SBICARD.NS,SBI Cards and Payment Services Limited
+IDEA.NS,Vodafone Idea Limited
+MARICO.NS,Marico Limited
+GODREJPROP.NS,Godrej Properties Limited
+AUROPHARMA.NS,Aurobindo Pharma Limited
+UCOBANK.NS,UCO Bank
+BANKINDIA.NS,Bank of India
+PERSISTENT.NS,Persistent Systems Limited
+MUTHOOTFIN.NS,Muthoot Finance Limited
+NMDC.NS,NMDC Limited
+ALKEM.NS,Alkem Laboratories Limited
+PIIND.NS,PI Industries Limited
+LTTS.NS,L&T Technology Services Limited
+GICRE.NS,General Insurance Corporation of India
+TATACOMM.NS,Tata Communications Limited
+JSL.NS,Jindal Stainless Limited
+MRF.NS,MRF Limited
+SAIL.NS,Steel Authority of India Limited
+PGHH.NS,Procter & Gamble Hygiene and Health Care Limited
+SUZLON.NS,Suzlon Energy Limited
+LINDEINDIA.NS,Linde India Limited
+SUPREMEIND.NS,Supreme Industries Limited
+CONCOR.NS,Container Corporation of India Limited
+OBEROIRLTY.NS,Oberoi Realty Limited
+ASTRAL.NS,Astral Limited
+IDFCFIRSTB.NS,IDFC First Bank Limited
+RVNL.NS,Rail Vikas Nigam Limited
+BHARATFORG.NS,Bharat Forge Limited
+CENTRALBK.NS,Central Bank of India
+JSWINFRA.NS,JSW Infrastructure Limited
+POLICYBZR.NS,PB Fintech Limited
+ASHOKLEY.NS,Ashok Leyland Limited
+THERMAX.NS,Thermax Limited
+PHOENIXLTD.NS,The Phoenix Mills Limited
+GMRINFRA.NS,GMR Airports Infrastructure Limited
+TATAELXSI.NS,Tata Elxsi Limited
+PATANJALI.NS,Patanjali Foods Limited
+SJVN.NS,SJVN Limited
+PRESTIGE.NS,Prestige Estates Projects Limited
+ACC.NS,ACC Limited
+NYKAA.NS,FSN E-Commerce Ventures Limited
+SUNDARMFIN.NS,Sundaram Finance Limited
+UBL.NS,United Breweries Limited
+ABCAPITAL.NS,Aditya Birla Capital Limited
+MPHASIS.NS,MphasiS Limited
+BALKRISIND.NS,Balkrishna Industries Limited
+DIXON.NS,Dixon Technologies (India) Limited
+MAHABANK.NS,Bank of Maharashtra
+KALYANKJIL.NS,Kalyan Jewellers India Limited
+SCHAEFFLER.NS,Schaeffler India Limited
+AWL.NS,Adani Wilmar Limited
+APLAPOLLO.NS,APL Apollo Tubes Limited
+TATATECH.NS,Tata Technologies Limited
+SONACOMS.NS,Sona BLW Precision Forgings Limited
+KPITTECH.NS,KPIT Technologies Limited
+FACT.NS,Fertilizers and Chemicals Travancore Limited
+PSB.NS,Punjab & Sind Bank
+PETRONET.NS,Petronet LNG Limited
+L&TFH.NS,L&T Finance Holdings Limited
+UNOMINDA.NS,UNO Minda Limited
+PAGEIND.NS,Page Industries Limited
+MRPL.NS,Mangalore Refinery and Petrochemicals Limited
+AUBANK.NS,AU Small Finance Bank Limited
+MAZDOCK.NS,Mazagon Dock Shipbuilders Limited
+HUDCO.NS,Housing & Urban Development Corporation Limited
+GUJGASLTD.NS,Gujarat Gas Limited
+NIACL.NS,The New India Assurance Company Limited
+CRISIL.NS,CRISIL Limited
+AIAENG.NS,AIA Engineering Limited
+FEDERALBNK.NS,The Federal Bank  Limited
+IREDA.NS,Indian Renewable Energy Development Agency Limited
+VOLTAS.NS,Voltas Limited
+DALBHARAT.NS,Dalmia Bharat Limited
+POONAWALLA.NS,Poonawalla Fincorp Limited
+MEDANTA.NS,Global Health Limited
+IRB.NS,IRB Infrastructure Developers Limited
+3MINDIA.NS,3M India Limited
+MFSL.NS,Max Financial Services Limited
+M&MFIN.NS,Mahindra & Mahindra Financial Services Limited
+UPL.NS,UPL Limited
+HONAUT.NS,Honeywell Automation India Limited
+BSE.NS,BSE Limited
+FLUOROCHEM.NS,Gujarat Fluorochemicals Limited
+COFORGE.NS,Coforge Limited
+LICHSGFIN.NS,LIC Housing Finance Limited
+GLAXO.NS,GlaxoSmithKline Pharmaceuticals Limited
+DELHIVERY.NS,Delhivery Limited
+BDL.NS,Bharat Dynamics Limited
+STARHEALTH.NS,Star Health and Allied Insurance Company Limited
+FORTIS.NS,Fortis Healthcare Limited
+BIOCON.NS,Biocon Limited
+COROMANDEL.NS,Coromandel International Limited
+NLCINDIA.NS,NLC India Limited
+TATAINVEST.NS,Tata Investment Corporation Limited
+JKCEMENT.NS,JK Cement Limited
+IPCALAB.NS,IPCA Laboratories Limited
+METROBRAND.NS,Metro Brands Limited
+KEI.NS,KEI Industries Limited
+ESCORTS.NS,Escorts Kubota Limited
+LLOYDSME.NS,Lloyds Metals And Energy Limited
+GLAND.NS,Gland Pharma Limited
+IGL.NS,Indraprastha Gas Limited
+NAM-INDIA.NS,Nippon Life India Asset Management Limited
+APOLLOTYRE.NS,Apollo Tyres Limited
+JUBLFOOD.NS,Jubilant Foodworks Limited
+POWERINDIA.NS,Hitachi Energy India Limited
+MSUMI.NS,Motherson Sumi Wiring India Limited
+BANDHANBNK.NS,Bandhan Bank Limited
+DEEPAKNTR.NS,Deepak Nitrite Limited
+ZFCVINDIA.NS,ZF Commercial Vehicle Control Systems India Limited
+AJANTPHARM.NS,Ajanta Pharma Limited
+KPRMILL.NS,K.P.R. Mill Limited
+SYNGENE.NS,Syngene International Limited
+EIHOTEL.NS,EIH Limited
+APARINDS.NS,Apar Industries Limited
+NATIONALUM.NS,National Aluminium Company Limited
+TATACHEM.NS,Tata Chemicals Limited
+GLENMARK.NS,Glenmark Pharmaceuticals Limited
+HINDCOPPER.NS,Hindustan Copper Limited
+GODREJIND.NS,Godrej Industries Limited
+NH.NS,Narayana Hrudayalaya Ltd.
+BLUESTARCO.NS,Blue Star Limited
+EXIDEIND.NS,Exide Industries Limited
+ENDURANCE.NS,Endurance Technologies Limited
+JBCHEPHARM.NS,JB Chemicals & Pharmaceuticals Limited
+PAYTM.NS,One 97 Communications Limited
+ANGELONE.NS,Angel One Limited
+MOTILALOFS.NS,Motilal Oswal Financial Services Limited
+ITI.NS,ITI Limited
+360ONE.NS,360 ONE WAM LIMITED
+CARBORUNIV.NS,Carborundum Universal Limited
+AARTIIND.NS,Aarti Industries Limited
+SUNTV.NS,Sun TV Network Limited
+KIOCL.NS,KIOCL Limited
+ISEC.NS,ICICI Securities Limited
+RADICO.NS,Radico Khaitan Limited
+SUNDRMFAST.NS,Sundram Fasteners Limited
+CREDITACC.NS,CREDITACCESS GRAMEEN LIMITED
+COCHINSHIP.NS,Cochin Shipyard Limited
+HATSUN.NS,Hatsun Agro Product Limited
+MANYAVAR.NS,Vedant Fashions Limited
+CYIENT.NS,Cyient Limited
+GET&D.NS,GE T&D India Limited
+BRIGADE.NS,Brigade Enterprises Limited
+TIMKEN.NS,Timken India Limited
+NBCC.NS,NBCC (India) Limited
+JBMA.NS,JBM Auto Limited
+GILLETTE.NS,Gillette India Limited
+KANSAINER.NS,Kansai Nerolac Paints Limited
+LAURUSLABS.NS,Laurus Labs Limited
+GRINDWELL.NS,Grindwell Norton Limited
+FIVESTAR.NS,Five-Star Business Finance Limited
+SWANENERGY.NS,Swan Energy Limited
+CHOLAHLDNG.NS,Cholamandalam Financial Holdings Limited
+IRCON.NS,Ircon International Limited
+SKFINDIA.NS,SKF India Limited
+BSOFT.NS,BIRLASOFT LIMITED
+ASTERDM.NS,Aster DM Healthcare Limited
+RELAXO.NS,Relaxo Footwears Limited
+SONATSOFTW.NS,Sonata Software Limited
+GSPL.NS,Gujarat State Petronet Limited
+RATNAMANI.NS,Ratnamani Metals & Tubes Limited
+ABFRL.NS,Aditya Birla Fashion and Retail Limited
+APLLTD.NS,Alembic Pharmaceuticals Limited
+PFIZER.NS,Pfizer Limited
+RAMCOCEM.NS,The Ramco Cements Limited
+SIGNATURE.NS,Signatureglobal (India) Limited
+PEL.NS,Piramal Enterprises Limited
+ELGIEQUIP.NS,Elgi Equipments Limited
+LALPATHLAB.NS,Dr. Lal Path Labs Ltd.
+EMAMILTD.NS,Emami Limited
+SANOFI.NS,Sanofi India Limited
+JYOTICNC.NS,Jyoti CNC Automation Limited
+TRIDENT.NS,Trident Limited
+CASTROLIND.NS,Castrol India Limited
+KAJARIACER.NS,Kajaria Ceramics Limited
+KAYNES.NS,Kaynes Technology India Limited
+CENTURYTEX.NS,Century Textiles & Industries Limited
+CHALET.NS,Chalet Hotels Limited
+DEVYANI.NS,Devyani International Limited
+CDSL.NS,Central Depository Services (India) Limited
+KEC.NS,KEC International Limited
+SCHNEIDER.NS,Schneider Electric Infrastructure Limited
+IDFC.NS,IDFC Limited
+BATAINDIA.NS,Bata India Limited
+CIEINDIA.NS,CIE Automotive India Limited
+KPIL.NS,Kalpataru Projects International Limited
+RRKABEL.NS,R R Kabel Limited
+SUMICHEM.NS,Sumitomo Chemical India Limited
+NATCOPHARM.NS,Natco Pharma Limited
+SUVENPHAR.NS,Suven Pharmaceuticals Limited
+CROMPTON.NS,Crompton Greaves Consumer Electricals Limited
+TRITURBINE.NS,Triveni Turbine Limited
+PPLPHARMA.NS,Piramal Pharma Limited
+INOXWIND.NS,Inox Wind Limited
+ACE.NS,Action Construction Equipment Limited
+ATUL.NS,Atul Limited
+CGCL.NS,Capri Global Capital Limited
+TVSHLTD.NS,TVS Holdings Limited
+SHYAMMETL.NS,Shyam Metalics and Energy Limited
+NUVAMA.NS,Nuvama Wealth Management Limited
+KIMS.NS,Krishna Institute of Medical Sciences Limited
+CELLO.NS,Cello World Limited
+PNBHOUSING.NS,PNB Housing Finance Limited
+REDINGTON.NS,Redington Limited
+LAXMIMACH.NS,Lakshmi Machine Works Limited
+JYOTHYLAB.NS,Jyothy Labs Limited
+CESC.NS,CESC Limited
+GODFRYPHLP.NS,Godfrey Phillips India Limited
+NSLNISP.NS,NMDC Steel Limited
+RITES.NS,RITES Limited
+CONCORDBIO.NS,Concord Biotech Limited
+INDIAMART.NS,Indiamart Intermesh Limited
+AEGISCHEM.NS,Aegis Logistics Limited
+OLECTRA.NS,Olectra Greentech Limited
+WHIRLPOOL.NS,Whirlpool of India Limited
+ANANDRATHI.NS,Anand Rathi Wealth Limited
+NAVINFLUOR.NS,Navin Fluorine International Limited
+JWL.NS,Jupiter Wagons Limited
+APTUS.NS,Aptus Value Housing Finance India Limited
+FINCABLES.NS,Finolex Cables Limited
+FINPIPE.NS,Finolex Industries Limited
+POLYMED.NS,Poly Medicure Limited
+VINATIORGA.NS,Vinati Organics Limited
+INTELLECT.NS,Intellect Design Arena Limited
+JAIBALAJI.NS,Jai Balaji Industries Limited
+J&KBANK.NS,The Jammu & Kashmir Bank Limited
+KARURVYSYA.NS,Karur Vysya Bank Limited
+BLUEDART.NS,Blue Dart Express Limited
+MANAPPURAM.NS,Manappuram Finance Limited
+AFFLE.NS,Affle (India) Limited
+NCC.NS,NCC Limited
+RBLBANK.NS,RBL Bank Limited
+TTML.NS,Tata Teleservices (Maharashtra) Limited
+BASF.NS,BASF India Limited
+VGUARD.NS,V-Guard Industries Limited
+CAMS.NS,Computer Age Management Services Limited
+GESHIP.NS,The Great Eastern Shipping Company Limited
+CENTURYPLY.NS,Century Plyboards (India) Limited
+CLEAN.NS,Clean Science and Technology Limited
+JINDALSAW.NS,Jindal Saw Limited
+FSL.NS,Firstsource Solutions Limited
+ZENSARTECH.NS,Zensar Technologies Limited
+SOBHA.NS,Sobha Limited
+CHAMBLFERT.NS,Chambal Fertilizers & Chemicals Limited
+DATAPATTNS.NS,Data Patterns (India) Limited
+CHENNPETRO.NS,Chennai Petroleum Corporation Limited
+WELCORP.NS,Welspun Corp Limited
+MGL.NS,Mahanagar Gas Limited
+KSB.NS,Ksb Limited
+WELSPUNLIV.NS,Welspun Living Limited
+HSCL.NS,Himadri Speciality Chemical Limited
+DCMSHRIRAM.NS,DCM Shriram Limited
+ASTRAZEN.NS,AstraZeneca Pharma India Limited
+ZEEL.NS,Zee Entertainment Enterprises Limited
+BEML.NS,BEML Limited
+HFCL.NS,HFCL Limited
+RAINBOW.NS,Rainbow Childrens Medicare Limited
+ABSLAMC.NS,Aditya Birla Sun Life AMC Limited
+HONASA.NS,Honasa Consumer Limited
+ASAHIINDIA.NS,Asahi India Glass Limited
+PVRINOX.NS,PVR INOX Limited
+ARE&M.NS,Amara Raja Energy & Mobility Limited
+IIFL.NS,IIFL Finance Limited
+BLS.NS,BLS International Services Limited
+ALOKINDS.NS,Alok Industries Limited
+VTL.NS,Vardhman Textiles Limited
+GRINFRA.NS,G R Infraprojects Limited
+HBLPOWER.NS,HBL Power Systems Limited
+WESTLIFE.NS,WESTLIFE FOODWORLD LIMITED
+RKFORGE.NS,Ramkrishna Forgings Limited
+KIRLOSENG.NS,Kirloskar Oil Engines Limited
+TITAGARH.NS,TITAGARH RAIL SYSTEMS LIMITED
+FINEORG.NS,Fine Organic Industries Limited
+AMBER.NS,Amber Enterprises India Limited
+BIKAJI.NS,Bikaji Foods International Limited
+SWSOLAR.NS,Sterling and Wilson Renewable Energy Limited
+RAYMOND.NS,Raymond Limited
+IEX.NS,Indian Energy Exchange Limited
+SPARC.NS,Sun Pharma Advanced Research Company Limited
+GRAPHITE.NS,Graphite India Limited
+SPLPETRO.NS,Supreme Petrochem Limited
+RAILTEL.NS,Railtel Corporation Of India Limited
+INGERRAND.NS,Ingersoll Rand (India) Limited
+ECLERX.NS,eClerx Services Limited
+JUNIPER.NS,Juniper Hotels Limited
+ERIS.NS,Eris Lifesciences Limited
+RHIM.NS,RHI MAGNESITA INDIA LIMITED
+ENGINERSIN.NS,Engineers India Limited
+MAHSEAMLES.NS,Maharashtra Seamless Limited
+HAPPSTMNDS.NS,Happiest Minds Technologies Limited
+JKTYRE.NS,JK Tyre & Industries Limited
+TEJASNET.NS,Tejas Networks Limited
+PNCINFRA.NS,PNC Infratech Limited
+NEWGEN.NS,Newgen Software Technologies Limited
+INOXINDIA.NS,INOX India Limited
+TANLA.NS,Tanla Platforms Limited
+BIRLACORPN.NS,Birla Corporation Limited
+BBTC.NS,Bombay Burmah Trading Corporation Limited
+GMDCLTD.NS,Gujarat Mineral Development Corporation Limited
+NUVOCO.NS,Nuvoco Vistas Corporation Limited
+AKZOINDIA.NS,Akzo Nobel India Limited
+CEATLTD.NS,CEAT Limited
+RPOWER.NS,Reliance Power Limited
+RELINFRA.NS,Reliance Infrastructure Limited
+GPIL.NS,Godawari Power And Ispat limited
+ELECON.NS,Elecon Engineering Company Limited
+ANANTRAJ.NS,Anant Raj Limited
+ELECTCAST.NS,Electrosteel Castings Limited
+DBREALTY.NS,D B Realty Limited
+EQUITASBNK.NS,Equitas Small Finance Bank Limited
+KFINTECH.NS,Kfin Technologies Limited
+BAJAJELEC.NS,Bajaj Electricals Limited
+LATENTVIEW.NS,Latent View Analytics Limited
+JPPOWER.NS,Jaiprakash Power Ventures Limited
+GRANULES.NS,Granules India Limited
+AAVAS.NS,Aavas Financiers Limited
+AETHER.NS,Aether Industries Limited
+UTIAMC.NS,UTI Asset Management Company Limited
+LEMONTREE.NS,Lemon Tree Hotels Limited
+JKLAKSHMI.NS,JK Lakshmi Cement Limited
+GPPL.NS,Gujarat Pipavav Port Limited
+SFL.NS,Sheela Foam Limited
+PCBL.NS,PCBL LIMITED
+MAPMYINDIA.NS,C.E. Info Systems Limited
+ROUTE.NS,ROUTE MOBILE LIMITED
+CANFINHOME.NS,Can Fin Homes Limited
+CUB.NS,City Union Bank Limited
+SAPPHIRE.NS,Sapphire Foods India Limited
+CAPLIPOINT.NS,Caplin Point Laboratories Limited
+MINDACORP.NS,Minda Corporation Limited
+MMTC.NS,MMTC Limited
+PTCIL.NS,PTC Industries Limited
+IFCI.NS,IFCI Limited
+PRAJIND.NS,Praj Industries Limited
+VOLTAMP.NS,Voltamp Transformers Limited
+SCI.NS,Shipping Corporation Of India Limited
+USHAMART.NS,Usha Martin Limited
+EIDPARRY.NS,EID Parry India Limited
+RTNINDIA.NS,RattanIndia Enterprises Limited
+ANURAS.NS,Anupam Rasayan India Limited
+GLS.NS,Glenmark Life Sciences Limited
+DOMS.NS,DOMS Industries Limited
+INFIBEAM.NS,Infibeam Avenues Limited
+FORCEMOT.NS,FORCE MOTORS LTD
+ZYDUSWELL.NS,Zydus Wellness Limited
+STARCEMENT.NS,Star Cement Limited
+GODREJAGRO.NS,Godrej Agrovet Limited
+TTKPRESTIG.NS,TTK Prestige Limited
+ALKYLAMINE.NS,Alkyl Amines Chemicals Limited
+GNFC.NS,Gujarat Narmada Valley Fertilizers and Chemicals Limited
+KPIGREEN.NS,KPI Green Energy Limited
+CRAFTSMAN.NS,Craftsman Automation Limited
+MAHLIFE.NS,Mahindra Lifespace Developers Limited
+REDTAPE.NS,Redtape Limited
+JUBLPHARMA.NS,Jubilant Pharmova Limited
+NETWEB.NS,Netweb Technologies India Limited
+NETWORK18.NS,Network18 Media & Investments Limited
+PRSMJOHNSN.NS,Prism Johnson Limited
+METROPOLIS.NS,Metropolis Healthcare Limited
+CERA.NS,Cera Sanitaryware Limited
+SBFC.NS,SBFC Finance Limited
+GRSE.NS,Garden Reach Shipbuilders & Engineers Limited
+KIRLOSBROS.NS,Kirloskar Brothers Limited
+UJJIVANSFB.NS,Ujjivan Small Finance Bank Limited
+SHRIPISTON.NS,Shriram Pistons & Rings Limited
+RENUKA.NS,Shree Renuka Sugars Limited
+RATEGAIN.NS,Rategain Travel Technologies Limited
+WOCKPHARMA.NS,Wockhardt Limited
+SAFARI.NS,Safari Industries (India) Limited
+HAPPYFORGE.NS,Happy Forgings Limited
+TECHNOE.NS,Techno Electric & Engineering Company Limited
+SHOPERSTOP.NS,Shoppers Stop Limited
+IBULHSGFIN.NS,Indiabulls Housing Finance Limited
+SYRMA.NS,Syrma SGS Technology Limited
+TEGA.NS,Tega Industries Limited
+ACI.NS,Archean Chemical Industries Limited
+MEDPLUS.NS,Medplus Health Services Limited
+MAHSCOOTER.NS,Maharashtra Scooters Limited
+NEULANDLAB.NS,Neuland Laboratories Limited
+AZAD.NS,Azad Engineering Limited
+ESABINDIA.NS,Esab India Limited
+GALAXYSURF.NS,Galaxy Surfactants Limited
+ZENTEC.NS,Zen Technologies Limited
+JSWHL.NS,JSW Holdings Limited
+TV18BRDCST.NS,TV18 Broadcast Limited
+HOMEFIRST.NS,Home First Finance Company India Limited
+MHRIL.NS,Mahindra Holidays & Resorts India Limited
+POWERMECH.NS,Power Mech Projects Limited
+KTKBANK.NS,The Karnataka Bank Limited
+JLHL.NS,Jupiter Life Line Hospitals Limited
+MASTEK.NS,Mastek Limited
+PGHL.NS,Procter & Gamble Health Limited
+THOMASCOOK.NS,Thomas Cook  (India)  Limited
+CCL.NS,CCL Products (India) Limited
+GSFC.NS,Gujarat State Fertilizers & Chemicals Limited
+RAJESHEXPO.NS,Rajesh Exports Limited
+QUESS.NS,Quess Corp Limited
+VARROC.NS,Varroc Engineering Limited
+TMB.NS,Tamilnad Mercantile Bank Limited
+MANINFRA.NS,Man Infraconstruction Limited
+EASEMYTRIP.NS,Easy Trip Planners Limited
+VIPIND.NS,VIP Industries Limited
+IONEXCHANG.NS,ION Exchange (India) Limited
+RESPONIND.NS,Responsive Industries Limited
+MIDHANI.NS,Mishra Dhatu Nigam Limited
+EMIL.NS,Electronics Mart India Limited
+GAEL.NS,Gujarat Ambuja Exports Limited
+BALRAMCHIN.NS,Balrampur Chini Mills Limited
+STAR.NS,Strides Pharma Science Limited
+JUBLINGREA.NS,Jubilant Ingrevia Limited
+SARDAEN.NS,Sarda Energy & Minerals Limited
+JMFINANCIL.NS,JM Financial Limited
+SOUTHBANK.NS,The South Indian Bank Limited
+HEG.NS,HEG Limited
+CHEMPLASTS.NS,Chemplast Sanmar Limited
+ARVIND.NS,Arvind Limited
+RCF.NS,Rashtriya Chemicals and Fertilizers Limited
+NAVA.NS,NAVA LIMITED
+ALLCARGO.NS,Allcargo Logistics Limited
+ICIL.NS,Indo Count Industries Limited
+IWEL.NS,Inox Wind Energy Limited
+KNRCON.NS,KNR Constructions Limited
+FDC.NS,FDC Limited
+RELIGARE.NS,Religare Enterprises Limited
+GRAVITA.NS,Gravita India Limited
+RUSTOMJEE.NS,Keystone Realtors Limited
+MARKSANS.NS,Marksans Pharma Limited
+NIITMTS.NS,NIIT Learning Systems Limited
+AHLUCONT.NS,Ahluwalia Contracts (India) Limited
+JUSTDIAL.NS,Just Dial Limited
+TRIVENI.NS,Triveni Engineering & Industries Limited
+TVSSCS.NS,TVS Supply Chain Solutions Limited
+GARFIBRES.NS,Garware Technical Fibres Limited
+VESUVIUS.NS,Vesuvius India Limited
+SAREGAMA.NS,Saregama India Limited
+DBL.NS,Dilip Buildcon Limited
+INDIASHLTR.NS,India Shelter Finance Corporation Limited
+BLUEJET.NS,Blue Jet Healthcare Limited
+BALAMINES.NS,Balaji Amines Limited
+ISGEC.NS,Isgec Heavy Engineering Limited
+AVANTIFEED.NS,Avanti Feeds Limited
+INDIACEM.NS,The India Cements Limited
+BECTORFOOD.NS,Mrs. Bectors Food Specialities Limited
+CAMPUS.NS,Campus Activewear Limited
+LTFOODS.NS,LT Foods Limited
+VIJAYA.NS,Vijaya Diagnostic Centre Limited
+GOCOLORS.NS,Go Fashion (India) Limited
+BORORENEW.NS,BOROSIL RENEWABLES LIMITED
+LXCHEM.NS,Laxmi Organic Industries Limited
+GREENLAM.NS,Greenlam Industries Limited
+DEEPAKFERT.NS,Deepak Fertilizers and Petrochemicals Corporation Limited
+CMSINFO.NS,CMS Info Systems Limited
+KRBL.NS,KRBL Limited
+ETHOSLTD.NS,Ethos Limited
+TEXRAIL.NS,Texmaco Rail & Engineering Limited
+TCI.NS,Transport Corporation of India Limited
+IBREALEST.NS,Indiabulls Real Estate Limited
+JINDWORLD.NS,Jindal Worldwide Limited
+EMUDHRA.NS,eMudhra Limited
+PDSL.NS,PDS Limited
+GANESHHOUC.NS,Ganesh Housing Corporation Limited
+CSBBANK.NS,CSB Bank Limited
+SHAREINDIA.NS,Share India Securities Limited
+IFBIND.NS,IFB Industries Limited
+PRINCEPIPE.NS,Prince Pipes And Fittings Limited
+VAIBHAVGBL.NS,Vaibhav Global Limited
+ARVINDFASN.NS,Arvind Fashions Limited
+EDELWEISS.NS,Edelweiss Financial Services Limited
+SENCO.NS,Senco Gold Limited
+SPANDANA.NS,Spandana Sphoorty Financial Limited
+INDIGOPNTS.NS,Indigo Paints Limited
+GENUSPOWER.NS,Genus Power Infrastructures Limited
+SYMPHONY.NS,Symphony Limited
+HGINFRA.NS,H.G. Infra Engineering Limited
+TIPSINDLTD.NS,TIPS Industries Limited
+SIS.NS,SIS LIMITED
+MSTCLTD.NS,Mstc Limited
+NESCO.NS,Nesco Limited
+SANGHVIMOV.NS,Sanghvi Movers Limited
+SANDUMA.NS,Sandur Manganese & Iron Ores Limited
+UJJIVAN.NS,Ujjivan Financial Services Limited
+ITDCEM.NS,ITD Cementation India Limited
+CYIENTDLM.NS,Cyient DLM Limited
+EPL.NS,EPL Limited
+SUPRAJIT.NS,Suprajit Engineering Limited
+SUNTECK.NS,Sunteck Realty Limited
+HEMIPROP.NS,Hemisphere Properties India Limited
+MOIL.NS,MOIL Limited
+TIMETECHNO.NS,Time Technoplast Limited
+ASTRAMICRO.NS,Astra Microwave Products Limited
+TRIL.NS,Transformers And Rectifiers (India) Limited
+WONDERLA.NS,Wonderla Holidays Limited
+ASKAUTOLTD.NS,ASK Automotive Limited
+LLOYDSENGG.NS,LLOYDS ENGINEERING WORKS LIMITED
+GMMPFAUDLR.NS,GMM Pfaudler Limited
+SURYAROSNI.NS,Surya Roshni Limited
+VSTIND.NS,VST Industries Limited
+PTC.NS,PTC India Limited
+JKPAPER.NS,JK Paper Limited
+SANSERA.NS,Sansera Engineering Limited
+CHOICEIN.NS,Choice International Limited
+AURIONPRO.NS,Aurionpro Solutions Limited
+PAISALO.NS,Paisalo Digital Limited
+ITDC.NS,India Tourism Development Corporation Limited
+HNDFDS.NS,Hindustan Foods Limited
+PARADEEP.NS,Paradeep Phosphates Limited
+KESORAMIND.NS,Kesoram Industries Limited
+HCC.NS,Hindustan Construction Company Limited
+ORCHPHARMA.NS,Orchid Pharma Limited
+JAMNAAUTO.NS,Jamna Auto Industries Limited
+ICRA.NS,ICRA Limited
+RSYSTEMS.NS,R Systems International Limited
+PRUDENT.NS,Prudent Corporate Advisory Services Limited
+MTARTECH.NS,Mtar Technologies Limited
+UTKARSHBNK.NS,Utkarsh Small Finance Bank Limited
+RAIN.NS,Rain Industries Limited
+DYNAMATECH.NS,Dynamatic Technologies Limited
+JAICORPLTD.NS,Jai Corp Limited
+RBA.NS,Restaurant Brands Asia Limited
+GATEWAY.NS,Gateway Distriparks Limited
+PURVA.NS,Puravankara Limited
+GUJALKALI.NS,Gujarat Alkalies and Chemicals Limited
+NAZARA.NS,Nazara Technologies Limited
+RALLIS.NS,Rallis India Limited
+VRLLOG.NS,VRL Logistics Limited
+GABRIEL.NS,Gabriel India Limited
+DODLA.NS,Dodla Dairy Limited
+JKIL.NS,J.Kumar Infraprojects Limited
+ROLEXRINGS.NS,Rolex Rings Limited
+WABAG.NS,VA Tech Wabag Limited
+PRICOLLTD.NS,Pricol Limited
+HCG.NS,Healthcare Global Enterprises Limited
+AGI.NS,AGI Greenpac Limited
+DBCORP.NS,D.B.Corp Limited
+FUSION.NS,Fusion Micro Finance Limited
+DHANUKA.NS,Dhanuka Agritech Limited
+MASFIN.NS,MAS Financial Services Limited
+SULA.NS,Sula Vineyards Limited
+TDPOWERSYS.NS,TD Power Systems Limited
+GALLANTT.NS,Gallantt Ispat Limited
+JAYNECOIND.NS,Jayaswal Neco Industries Limited
+GULFOILLUB.NS,Gulf Oil Lubricants India Limited
+SAMHI.NS,Samhi Hotels Limited
+TEAMLEASE.NS,Teamlease Services Limited
+KIRLPNU.NS,Kirloskar Pneumatic Company Limited
+EPIGRAL.NS,Epigral Limited
+TIIL.NS,Technocraft Industries (India) Limited
+GOPAL.NS,Gopal Snacks Limited
+JTEKTINDIA.NS,Jtekt India Limited
+HEIDELBERG.NS,HeidelbergCement India Limited
+SUNDARMHLD.NS,Sundaram Finance Holdings Limited
+RTNPOWER.NS,RattanIndia Power Limited
+STLTECH.NS,Sterlite Technologies Limited
+JPASSOCIAT.NS,Jaiprakash Associates Limited
+PATELENG.NS,Patel Engineering Limited
+ASHOKA.NS,Ashoka Buildcon Limited
+SINDHUTRAD.NS,Sindhu Trade Links Limited
+PGEL.NS,PG Electroplast Limited
+NFL.NS,National Fertilizers Limited
+ENTERO.NS,Entero Healthcare Solutions Limited
+JSFB.NS,Jana Small Finance Bank Limited
+GOKEX.NS,Gokaldas Exports Limited
+BANCOINDIA.NS,Banco Products (I) Limited
+VMART.NS,V-Mart Retail Limited
+SHANTIGEAR.NS,Shanthi Gears Limited
+GHCL.NS,GHCL Limited
+SUDARSCHEM.NS,Sudarshan Chemical Industries Limited
+WELENT.NS,Welspun Enterprises Limited
+FEDFINA.NS,Fedbank Financial Services Limited
+NOCIL.NS,NOCIL Limited
+TARC.NS,TARC Limited
+KKCL.NS,Kewal Kiran Clothing Limited
+ORIENTELEC.NS,Orient Electric Limited
+BOROLTD.NS,Borosil Limited
+KIRLOSIND.NS,Kirloskar Industries Limited
+BALMLAWRIE.NS,Balmer Lawrie & Company Limited
+FCL.NS,Fineotex Chemical Limited
+GRWRHITECH.NS,Garware Hi-Tech Films Limited
+SHARDAMOTR.NS,Sharda Motor Industries Limited
+PARKHOTELS.NS,Apeejay Surrendra Park Hotels Limited
+MAXESTATES.NS,Max Estates Limited
+TI.NS,Tilaknagar Industries Limited
+AMIORG.NS,Ami Organics Limited
+ORIENTCEM.NS,Orient Cement Limited
+SHILPAMED.NS,Shilpa Medicare Limited
+AARTIDRUGS.NS,Aarti Drugs Limited
+LGBBROSLTD.NS,LG Balakrishnan & Bros Limited
+AARTIPHARM.NS,Aarti Pharmalabs Limited
+TCIEXP.NS,TCI Express Limited
+WSTCSTPAPR.NS,West Coast Paper Mills Limited
+ADVENZYMES.NS,Advanced Enzyme Technologies Limited
+PRIVISCL.NS,Privi Speciality Chemicals Limited
+GREENPANEL.NS,Greenpanel Industries Limited
+VENUSPIPES.NS,Venus Pipes & Tubes Limited
+BBOX.NS,Black Box Limited
+IIFLSEC.NS,IIFL Securities Limited
+PILANIINVS.NS,Pilani Investment and Industries Corporation Limited
+ROSSARI.NS,Rossari Biotech Limited
+KSL.NS,Kalyani Steels Limited
+DCBBANK.NS,DCB Bank Limited
+IMAGICAA.NS,Imagicaaworld Entertainment Limited
+BAJAJHIND.NS,Bajaj Hindusthan Sugar Limited
+DCAL.NS,Dishman Carbogen Amcis Limited
+HARSHA.NS,Harsha Engineers International Limited
+BBL.NS,Bharat Bijlee Limited
+YATHARTH.NS,Yatharth Hospital & Trauma Care Services Limited
+ORISSAMINE.NS,The Orissa Minerals Development Company Limited
+THANGAMAYL.NS,Thangamayil Jewellery Limited
+ZAGGLE.NS,Zaggle Prepaid Ocean Services Limited
+BHARATRAS.NS,Bharat Rasayan Limited
+KOLTEPATIL.NS,Kolte - Patil Developers Limited
+KSCL.NS,Kaveri Seed Company Limited
+MEDIASSIST.NS,Medi Assist Healthcare Services Limited
+INOXGREEN.NS,Inox Green Energy Services Limited
+HATHWAY.NS,Hathway Cable & Datacom Limited
+SSWL.NS,Steel Strips Wheels Limited
+UNICHEMLAB.NS,Unichem Laboratories Limited
+CIGNITITEC.NS,Cigniti Technologies Limited
+IMFA.NS,Indian Metals & Ferro Alloys Limited
+ASHAPURMIN.NS,Ashapura Minechem Limited
+HGS.NS,Hinduja Global Solutions Limited
+MUTHOOTMF.NS,Muthoot Microfin Limited
+SUBROS.NS,Subros Limited
+RAMKY.NS,Ramky Infrastructure Limited
+SUNFLAG.NS,Sunflag Iron And Steel Company Limited
+CARERATING.NS,CARE Ratings Limited
+GENSOL.NS,Gensol Engineering Limited
+SKIPPER.NS,Skipper Limited
+LAOPALA.NS,La Opala RG Limited
+LUMAXTECH.NS,Lumax Auto Technologies Limited
+DCXINDIA.NS,DCX Systems Limited
+BOMDYEING.NS,Bombay Dyeing & Mfg Company Limited
+HIKAL.NS,Hikal Limited
+JISLJALEQS.NS,Jain Irrigation Systems Limited
+CUPID.NS,Cupid Limited
+AVALON.NS,Avalon Technologies Limited
+LUXIND.NS,Lux Industries Limited
+NUCLEUS.NS,Nucleus Software Exports Limited
+TASTYBITE.NS,Tasty Bite Eatables Limited
+SOTL.NS,Savita Oil Technologies Limited
+ARVSMART.NS,Arvind SmartSpaces Limited
+SANDHAR.NS,Sandhar Technologies Limited
+SALASAR.NS,Salasar Techno Engineering Limited
+NEOGEN.NS,Neogen Chemicals Limited
+DATAMATICS.NS,Datamatics Global Services Limited
+JTLIND.NS,JTL INDUSTRIES LIMITED
+ANUP.NS,The Anup Engineering Limited
+HERITGFOOD.NS,Heritage Foods Limited
+THYROCARE.NS,Thyrocare Technologies Limited
+VADILALIND.NS,Vadilal Industries Limited
+NAVNETEDUL.NS,Navneet Education Limited
+DISHTV.NS,Dish TV India Limited
+KDDL.NS,KDDL Limited
+KALAMANDIR.NS,Sai Silks (Kalamandir) Limited
+LANDMARK.NS,Landmark Cars Limited
+INDOCO.NS,Indoco Remedies Limited
+BAJAJCON.NS,Bajaj Consumer Care Limited
+TVSSRICHAK.NS,TVS Srichakra Limited
+CARTRADE.NS,Cartrade Tech Limited
+SBCL.NS,Shivalik Bimetal Controls Limited
+FIEMIND.NS,Fiem Industries Limited
+PRAKASH.NS,Prakash Industries Limited
+DELTACORP.NS,Delta Corp Limited
+RAJRATAN.NS,Rajratan Global Wire Limited
+IDEAFORGE.NS,Ideaforge Technology Limited
+MAHLOG.NS,Mahindra Logistics Limited
+PFOCUS.NS,Prime Focus Limited
+GREAVESCOT.NS,Greaves Cotton Limited
+DOLLAR.NS,Dollar Industries Limited
+UFLEX.NS,UFLEX Limited
+UNITECH.NS,Unitech Limited
+BFUTILITIE.NS,BF Utilities Limited
+SHARDACROP.NS,Sharda Cropchem Limited
+BANARISUG.NS,Bannari Amman Sugars Limited
+SEQUENT.NS,Sequent Scientific Limited
+GREENPLY.NS,Greenply Industries Limited
+MAITHANALL.NS,Maithan Alloys Limited
+SHK.NS,S H Kelkar and Company Limited
+SUNCLAY.NS,Sundaram Clayton Limited
+GUFICBIO.NS,Gufic Biosciences Limited
+BLSE.NS,BLS E-Services Limited
+DIACABS.NS,Diamond Power Infrastructure Limited
+ESAFSFB.NS,ESAF Small Finance Bank Limited
+VSTTILLERS.NS,V.S.T Tillers Tractors Limited
+HLEGLAS.NS,HLE Glascoat Limited
+BCG.NS,Brightcom Group Limited
+GOODLUCK.NS,Goodluck India Limited
+SWARAJENG.NS,Swaraj Engines Limited
+SEAMECLTD.NS,Seamec Limited
+SMLISUZU.NS,SML Isuzu Limited
+ASHIANA.NS,Ashiana Housing Limited
+DALMIASUG.NS,Dalmia Bharat Sugar and Industries Limited
+HINDWAREAP.NS,Hindware Home Innovation Limited
+SAGCEM.NS,Sagar Cements Limited
+SAKSOFT.NS,Saksoft Limited
+APOLLO.NS,Apollo Micro Systems Limited
+SUPRIYA.NS,Supriya Lifescience Limited
+AUTOAXLES.NS,Automotive Axles Limited
+STYLAMIND.NS,Stylam Industries Limited
+FLAIR.NS,Flair Writing Industries Limited
+VINDHYATEL.NS,Vindhya Telelinks Limited
+CARYSIL.NS,CARYSIL LIMITED
+THEJO.NS,Thejo Engineering Limited
+MPSLTD.NS,MPS Limited
+MARATHON.NS,Marathon Nextgen Realty Limited
+ISMTLTD.NS,ISMT Limited
+FILATEX.NS,Filatex India Limited
+NRBBEARING.NS,NRB Bearing Limited
+JCHAC.NS,Johnson Controls - Hitachi Air Conditioning India Limited
+MOLDTKPAC.NS,Mold-Tek Packaging Limited
+DREAMFOLKS.NS,Dreamfolks Services Limited
+GMRP&UI.NS,GMR Power and Urban Infra Limited
+SHALBY.NS,Shalby Limited
+INNOVACAP.NS,Innova Captab Limited
+PFS.NS,PTC India Financial Services Limited
+AJMERA.NS,Ajmera Realty & Infra India Limited
+HMAAGRO.NS,HMA Agro Industries Limited
+NILKAMAL.NS,Nilkamal Limited
+RPGLIFE.NS,RPG Life Sciences Limited
+TATVA.NS,Tatva Chintan Pharma Chem Limited
+STYRENIX.NS,Styrenix Performance Materials Limited
+QUICKHEAL.NS,Quick Heal Technologies Limited
+ACCELYA.NS,Accelya Solutions India Limited
+REPCOHOME.NS,Repco Home Finance Limited
+PCJEWELLER.NS,PC Jeweller Limited
+APOLLOPIPE.NS,Apollo Pipes Limited
+GANECOS.NS,Ganesha Ecosphere Limited
+PARAGMILK.NS,Parag Milk Foods Limited
+BAJEL.NS,Bajel Projects Limited
+PSPPROJECT.NS,PSP Projects Limited
+GIPCL.NS,Gujarat Industries Power Company Limited
+XPROINDIA.NS,Xpro India Limited
+PITTIENG.NS,Pitti Engineering Limited
+SHAKTIPUMP.NS,Shakti Pumps (India) Limited
+TIDEWATER.NS,Tide Water Oil Company (India) Limited
+SHAILY.NS,Shaily Engineering Plastics Limited
+EVEREADY.NS,Eveready Industries India Limited
+CONFIPET.NS,Confidence Petroleum India Limited
+POLYPLEX.NS,Polyplex Corporation Limited
+TAJGVK.NS,Taj GVK Hotels & Resorts Limited
+TIRUMALCHM.NS,Thirumalai Chemicals Limited
+SPECTRUM.NS,Spectrum Electrical Industries Limited
+PARAS.NS,Paras Defence and Space Technologies Limited
+EXICOM.NS,Exicom Tele-Systems Limited
+PGIL.NS,Pearl Global Industries Limited
+MANORAMA.NS,Manorama Industries Limited
+SOMANYCERA.NS,Somany Ceramics Limited
+KINGFA.NS,Kingfa Science & Technology (India) Limited
+FINOPB.NS,Fino Payments Bank Limited
+UNIPARTS.NS,Uniparts India Limited
+INDOSTAR.NS,IndoStar Capital Finance Limited
+DIVGIITTS.NS,Divgi Torqtransfer Systems Limited
+HINDOILEXP.NS,Hindustan Oil Exploration Company Limited
+SEPC.NS,SEPC Limited
+INDIAGLYCO.NS,India Glycols Limited
+IPL.NS,India Pesticides Limited
+GENESYS.NS,Genesys International Corporation Limited
+SANGHIIND.NS,Sanghi Industries Limited
+BSHSL.NS,Bombay Super Hybrid Seeds Limited
+SATIN.NS,Satin Creditcare Network Limited
+AXISCADES.NS,AXISCADES Technologies Limited
+ARTEMISMED.NS,Artemis Medicare Services Limited
+SASKEN.NS,Sasken Technologies Limited
+EIHAHOTELS.NS,EIH Associated Hotels Limited
+DHANI.NS,Dhani Services Limited
+PRECWIRE.NS,Precision Wires India Limited
+VIDHIING.NS,Vidhi Specialty Food Ingredients Limited
+APCOTEXIND.NS,Apcotex Industries Limited
+HUHTAMAKI.NS,Huhtamaki India Limited
+LUMAXIND.NS,Lumax Industries Limited
+GOCLCORP.NS,GOCL Corporation Limited
+WENDT.NS,Wendt (India) Limited
+DEN.NS,Den Networks Limited
+YATRA.NS,Yatra Online Limited
+HONDAPOWER.NS,Honda India Power Products Limited
+KCP.NS,KCP Limited
+EMSLIMITED.NS,EMS Limited
+JAGRAN.NS,Jagran Prakashan Limited
+SANGAMIND.NS,Sangam (India) Limited
+BEPL.NS,Bhansali Engineering Polymers Limited
+CAPACITE.NS,Capacit'e Infraprojects Limited
+NPST.NS,Network People Services Technologies Limited
+SUVEN.NS,Suven Life Sciences Limited
+MANINDS.NS,Man Industries (India) Limited
+DIAMONDYD.NS,Prataap Snacks Limited
+CENTUM.NS,Centum Electronics Limited
+VENKEYS.NS,Venky's (India) Limited
+IKIO.NS,IKIO Lighting Limited
+TCNSBRANDS.NS,TCNS Clothing Co. Limited
+OPTIEMUS.NS,Optiemus Infracom Limited
+MOREPENLAB.NS,Morepen Laboratories Limited
+MUKANDLTD.NS,Mukand Limited
+UDS.NS,Updater Services Limited
+ALEMBICLTD.NS,Alembic Limited
+RAMASTEEL.NS,Rama Steel Tubes Limited
+IOLCP.NS,IOL Chemicals and Pharmaceuticals Limited
+MBAPL.NS,Madhya Bharat Agro Products Limited
+MMFL.NS,MM Forgings Limited
+VAKRANGEE.NS,Vakrangee Limited
+TARSONS.NS,Tarsons Products Limited
+ASTEC.NS,Astec LifeSciences Limited
+JSLL.NS,Jeena Sikho Lifecare Limited
+VISHNU.NS,Vishnu Chemicals Limited
+TTKHLTCARE.NS,TTK Healthcare Limited
+MTNL.NS,Mahanagar Telephone Nigam Limited
+RPTECH.NS,Rashi Peripherals Limited
+RPSGVENT.NS,RPSG VENTURES LIMITED
+ORIENTHOT.NS,Oriental Hotels Limited
+GTLINFRA.NS,GTL Infrastructure Limited
+WEBELSOLAR.NS,Websol Energy System Limited
+JASH.NS,Jash Engineering Limited
+UGROCAP.NS,Ugro Capital Limited
+SDBL.NS,Som Distilleries & Breweries Limited
+HPL.NS,HPL Electric & Power Limited
+TCPLPACK.NS,TCPL Packaging Limited
+ADFFOODS.NS,ADF Foods Limited
+HMT.NS,HMT Limited
+MOL.NS,Meghmani Organics Limited
+MUFIN.NS,Mufin Green Finance Limited
+THEMISMED.NS,Themis Medicare Limited
+PANAMAPET.NS,Panama Petrochem Limited
+MANGLMCEM.NS,Mangalam Cement Limited
+SIGNPOST.NS,Signpost India Limited
+HITECH.NS,Hi-Tech Pipes Limited
+MAYURUNIQ.NS,Mayur Uniquoters Ltd
+SIYSIL.NS,Siyaram Silk Mills Limited
+JINDALPOLY.NS,Jindal Poly Films Limited
+KRSNAA.NS,Krsnaa Diagnostics Limited
+DEEPINDS.NS,Deep Industries Limited
+PNBGILTS.NS,PNB Gilts Limited
+HIL.NS,HIL Limited
+RICOAUTO.NS,Rico Auto Industries Limited
+BFINVEST.NS,BF Investment Limited
+GANDHAR.NS,Gandhar Oil Refinery (India) Limited
+IFGLEXPOR.NS,IFGL Refractories Limited
+BARBEQUE.NS,Barbeque Nation Hospitality Limited
+ANDHRAPAP.NS,ANDHRA PAPER LIMITED
+IRMENERGY.NS,IRM Energy Limited
+RIIL.NS,Reliance Industrial Infrastructure Limited
+SHRIRAMPPS.NS,Shriram Properties Limited
+GLOBUSSPR.NS,Globus Spirits Limited
+DREDGECORP.NS,Dredging Corporation of India Limited
+RUPA.NS,Rupa & Company Limited
+SJS.NS,S.J.S. Enterprises Limited
+PARACABLES.NS,Paramount Communications Limited
+EXPLEOSOL.NS,Expleo Solutions Limited
+PRECAM.NS,Precision Camshafts Limited
+BHARATWIRE.NS,Bharat Wire Ropes Limited
+GTPL.NS,GTPL Hathway Limited
+VPRPL.NS,Vishnu Prakash R Punglia Limited
+ADORWELD.NS,Ador Welding Limited
+DPABHUSHAN.NS,D. P. Abhushan Limited
+FOSECOIND.NS,Foseco India Limited
+SCILAL.NS,Shipping Corporation of India Land and Assets Limited
+SESHAPAPER.NS,Seshasayee Paper and Boards Limited
+JINDRILL.NS,Jindal Drilling And Industries Limited
+YASHO.NS,Yasho Industries Limited
+GREENPOWER.NS,Orient Green Power Company Limited
+NITINSPIN.NS,Nitin Spinners Limited
+GOLDIAM.NS,Goldiam International Limited
+PIXTRANS.NS,Pix Transmissions Limited
+SIGACHI.NS,Sigachi Industries Limited
+ARMANFIN.NS,Arman Financial Services Limited
+MONARCH.NS,Monarch Networth Capital Limited
+AMRUTANJAN.NS,Amrutanjan Health Care Limited
+FMGOETZE.NS,Federal-Mogul Goetze (India) Limited.
+PENIND.NS,Pennar Industries Limited
+GEPIL.NS,GE Power India Limited
+PVSL.NS,Popular Vehicles and Services Limited
+JUBLINDS.NS,Jubilant Industries Limited
+63MOONS.NS,63 moons technologies limited
+CANTABIL.NS,Cantabil Retail India Limited
+RAMCOIND.NS,Ramco Industries Limited
+JYOTISTRUC.NS,Jyoti Structures Limited
+VSSL.NS,Vardhman Special Steels Limited
+HERCULES.NS,Hercules Hoists Limited
+NSIL.NS,Nalwa Sons Investments Limited
+HLVLTD.NS,HLV LIMITED
+SURYODAY.NS,Suryoday Small Finance Bank Limited
+TNPL.NS,Tamil Nadu Newsprint & Papers Limited
+SUBEXLTD.NS,Subex Limited
+RISHABH.NS,Rishabh Instruments Limited
+SERVOTECH.NS,Servotech Power Systems Limited
+BHAGCHEM.NS,Bhagiradha Chemicals & Industries Limited
+ATFL.NS,Agro Tech Foods Limited
+OMAXE.NS,Omaxe Limited
+EVERESTIND.NS,Everest Industries Limited
+PREMEXPLN.NS,Premier Explosives Limited
+GNA.NS,GNA Axles Limited
+GOKULAGRO.NS,Gokul Agro Resources Limited
+TALBROAUTO.NS,Talbros Automotive Components Limited
+DCMSRIND.NS,DCM Shriram Industries Limited
+NELCO.NS,NELCO Limited
+KICL.NS,Kalyani Investment Company Limited
+MOTISONS.NS,Motisons Jewellers Limited
+5PAISA.NS,5Paisa Capital Limited
+KIRIINDUS.NS,Kiri Industries Limited
+CAPITALSFB.NS,Capital Small Finance Bank Limited
+INDRAMEDCO.NS,Indraprastha Medical Corporation Limited
+AEROFLEX.NS,Aeroflex Industries Limited
+SIRCA.NS,Sirca Paints India Limited
+SHANKARA.NS,Shankara Building Products Limited
+FAIRCHEMOR.NS,Fairchem Organics Limited
+BLKASHYAP.NS,B. L. Kashyap and Sons Limited
+TFCILTD.NS,Tourism Finance Corporation of India Limited
+SADHNANIQ.NS,Sadhana Nitrochem Limited
+INDNIPPON.NS,India Nippon Electricals Limited
+GVKPIL.NS,GVK Power & Infrastructure Limited
+RANEHOLDIN.NS,Rane Holdings Limited
+GEOJITFSL.NS,Geojit Financial Services Limited
+DCW.NS,DCW Limited
+SBGLP.NS,Suratwwala Business Group Limited
+BCLIND.NS,Bcl Industries Limited
+SMSPHARMA.NS,SMS Pharmaceuticals Limited
+DPSCLTD.NS,DPSC Limited
+CAMLINFINE.NS,Camlin Fine Sciences Limited
+CONTROLPR.NS,Control Print Limited
+REFEX.NS,Refex Industries Limited
+KRISHANA.NS,Krishana Phoschem Limited
+EKC.NS,Everest Kanto Cylinder Limited
+WHEELS.NS,Wheels India Limited
+JITFINFRA.NS,JITF Infralogistics Limited
+V2RETAIL.NS,V2 Retail Limited
+SALZERELEC.NS,Salzer Electronics Limited
+UNIVCABLES.NS,Universal Cables Limited
+SPAL.NS,S. P. Apparels Limited
+EPACK.NS,EPACK Durable Limited
+SWELECTES.NS,Swelect Energy Systems Limited
+GPTHEALTH.NS,GPT Healthcare Limited
+HITECHGEAR.NS,The Hi-Tech Gears Limited
+INSECTICID.NS,Insecticides (India) Limited
+PENINLAND.NS,Peninsula Land Limited
+SHREDIGCEM.NS,Shree Digvijay Cement Co.Ltd
+SPIC.NS,Southern Petrochemicals Industries Corporation  Limited
+NIITLTD.NS,NIIT Limited
+BIGBLOC.NS,Bigbloc Construction Limited
+ORIANA.NS,Oriana Power Limited
+SPCENET.NS,Spacenet Enterprises India Limited
+SHALPAINTS.NS,Shalimar Paints Limited
+KAMDHENU.NS,Kamdhenu Limited
+STOVEKRAFT.NS,Stove Kraft Limited
+RKSWAMY.NS,R K Swamy Limited
+NAVKARCORP.NS,Navkar Corporation Limited
+BUTTERFLY.NS,Butterfly Gandhimathi Appliances Limited
+DHAMPURSUG.NS,Dhampur Sugar Mills Limited
+NDTV.NS,New Delhi Television Limited
+ARIHANTSUP.NS,Arihant Superstructures Limited
+VASCONEQ.NS,Vascon Engineers Limited
+KUANTUM.NS,Kuantum Papers Limited
+APTECHT.NS,Aptech Limited
+INDIANHUME.NS,Indian Hume Pipe Company Limited
+ROSSELLIND.NS,Rossell India Limited
+AHL.NS,Abans Holdings Limited
+SOLARA.NS,Solara Active Pharma Sciences Limited
+SUMMITSEC.NS,Summit Securities Limited
+ALICON.NS,Alicon Castalloy Limited
+KSOLVES.NS,Ksolves India Limited
+IGPL.NS,IG Petrochemicals Limited
+STEELCAS.NS,Steelcast Limited
+POKARNA.NS,Pokarna Limited
+ATL.NS,Allcargo Terminals Limited
+ATULAUTO.NS,Atul Auto Limited
+GANESHBE.NS,Ganesh Benzoplast Limited
+COSMOFIRST.NS,COSMO FIRST LIMITED
+AWHCL.NS,Antony Waste Handling Cell Limited
+DWARKESH.NS,Dwarikesh Sugar Industries Limited
+HARIOMPIPE.NS,Hariom Pipe Industries Limited
+SMCGLOBAL.NS,SMC Global Securities Limited
+MADRASFERT.NS,Madras Fertilizers Limited
+DSSL.NS,Dynacons Systems & Solutions Limited
+STEELXIND.NS,STEEL EXCHANGE INDIA LIMITED
+MONTECARLO.NS,Monte Carlo Fashions Limited
+E2E.NS,E2E Networks Limited
+VERTOZ.NS,Vertoz Advertising Limited
+GIRIRAJ.NS,Giriraj Civil Developers Limited
+NGLFINE.NS,NGL Fine-Chem Limited
+IGARASHI.NS,Igarashi Motors India Limited
+JAYBARMARU.NS,Jay Bharat Maruti Limited
+AVTNPL.NS,AVT Natural Products Limited
+SKYGOLD.NS,Sky Gold Limited
+TVTODAY.NS,TV Today Network Limited
+XCHANGING.NS,Xchanging Solutions Limited
+ANDHRSUGAR.NS,The Andhra Sugars Limited
+ACLGATI.NS,Allcargo Gati Limited
+KOPRAN.NS,Kopran Limited
+ENIL.NS,Entertainment Network (India) Limited
+VERANDA.NS,Veranda Learning Solutions Limited
+MVGJL.NS,Manoj Vaibhav Gems N Jewellers Limited
+OMINFRAL.NS,OM INFRA LIMITED
+ZOTA.NS,Zota Health Care LImited
+SNOWMAN.NS,Snowman Logistics Limited
+RAJRILTD.NS,Raj Rayon Industries Limited
+PUNJABCHEM.NS,Punjab Chemicals & Crop Protection Limited
+KITEX.NS,Kitex Garments Limited
+TEXINFRA.NS,Texmaco Infrastructure & Holdings Limited
+IMPAL.NS,India Motor Parts and Accessories Limited
+HIMATSEIDE.NS,Himatsingka Seide Limited
+DOLATALGO.NS,Dolat Algotech Limited
+MANGCHEFER.NS,Mangalore Chemicals & Fertilizers Limited
+AGARIND.NS,Agarwal Industrial Corporation Limited
+REPRO.NS,Repro India Limited
+DOLPHIN.NS,Dolphin Offshore Enterprises (India) Limited
+UTTAMSUGAR.NS,Uttam Sugar Mills Limited
+CENTRUM.NS,Centrum Capital Limited
+HESTERBIO.NS,Hester Biosciences Limited
+BETA.NS,Beta Drugs Limited
+MARINE.NS,Marine Electricals (India) Limited
+BLISSGVS.NS,Bliss GVS Pharma Limited
+MSPL.NS,MSP Steel & Power Limited
+LINCOLN.NS,Lincoln Pharmaceuticals Limited
+SAURASHCEM.NS,Saurashtra Cement Limited
+MATRIMONY.NS,Matrimony.Com Limited
+HARDWYN.NS,Hardwyn India Limited
+GMBREW.NS,GM Breweries Limited
+SURAJEST.NS,Suraj Estate Developers Limited
+SICALLOG.NS,Sical Logistics Limited
+TREL.NS,Transindia Real Estate Limited
+PAKKA.NS,PAKKA LIMITED
+HERANBA.NS,Heranba Industries Limited
+RAMRAT.NS,Ram Ratna Wires Limited
+DVL.NS,Dhunseri Ventures Limited
+NACLIND.NS,NACL Industries Limited
+RML.NS,Rane (Madras) Limited
+NELCAST.NS,Nelcast Limited
+KOKUYOCMLN.NS,Kokuyo Camlin Limited
+ALLSEC.NS,Allsec Technologies Limited
+MACPOWER.NS,Macpower CNC Machines Limited
+INNOVANA.NS,Innovana Thinklabs Limited
+ROTO.NS,Roto Pumps Limited
+STERTOOLS.NS,Sterling Tools Limited
+MUKKA.NS,Mukka Proteins Limited
+TIL.NS,TIL Limited
+CSLFINANCE.NS,CSL Finance Limited
+GICHSGFIN.NS,GIC Housing Finance Limited
+SATIA.NS,Satia Industries Limited
+MUFTI.NS,Credo Brands Marketing Limited
+CREST.NS,Crest Ventures Limited
+AVADHSUGAR.NS,Avadh Sugar & Energy Limited
+WINDLAS.NS,Windlas Biotech Limited
+KRYSTAL.NS,Krystal Integrated Services Limited
+YUKEN.NS,Yuken India Limited
+ASIANENE.NS,Asian Energy Services Limited
+SPORTKING.NS,Sportking India Limited
+KOTYARK.NS,Kotyark Industries Limited
+CLSEL.NS,Chaman Lal Setia Exports Limited
+KAMOPAINTS.NS,Kamdhenu Ventures Limited
+HUBTOWN.NS,Hubtown Limited
+VALIANTORG.NS,Valiant Organics Limited
+INDOTECH.NS,Indo Tech Transformers Limited
+COFFEEDAY.NS,Coffee Day Enterprises Limited
+SYNCOMF.NS,Syncom Formulations (India) Limited
+NDRAUTO.NS,Ndr Auto Components Limited
+DHANBANK.NS,Dhanlaxmi Bank Limited
+ONEPOINT.NS,One Point One Solutions Limited
+HIRECT.NS,Hind Rectifiers Limited
+KABRAEXTRU.NS,Kabra Extrusion Technik Limited
+REMUS.NS,Remus Pharmaceuticals Limited
+INDORAMA.NS,Indo Rama Synthetics (India) Limited
+GULPOLY.NS,Gulshan Polyols Limited
+HEUBACHIND.NS,Heubach Colorants India Limited
+OAL.NS,Oriental Aromatics Limited
+CREATIVE.NS,Creative Newtech Limited
+ONWARDTEC.NS,Onward Technologies Limited
+URJA.NS,Urja Global Limited
+PVP.NS,PVP Ventures Limited
+ROHLTD.NS,Royal Orchid Hotels Limited
+BLAL.NS,BEML Land Assets Limited
+SATINDLTD.NS,Sat Industries Limited
+VIMTALABS.NS,Vimta Labs Limited
+ZUARIIND.NS,ZUARI INDUSTRIES LIMITED
+GSLSU.NS,Global Surfaces Limited
+NAHARSPING.NS,Nahar Spinning Mills Limited
+MANALIPETC.NS,Manali Petrochemicals Limited
+SASTASUNDR.NS,Sastasundar Ventures Limited
+DLINKINDIA.NS,D-Link (India) Limited
+RGL.NS,Renaissance Global Limited
+FOCUS.NS,Focus Lighting and Fixtures Limited
+GANDHITUBE.NS,Gandhi Special Tubes Limited
+KELLTONTEC.NS,Kellton Tech Solutions Limited
+PLATIND.NS,Platinum Industries Limited
+KERNEX.NS,Kernex Microsystems (India) Limited
+RAMCOSYS.NS,Ramco Systems Limited
+WALCHANNAG.NS,Walchandnagar Industries Limited
+CHEMFAB.NS,Chemfab Alkalis Limited
+UNIENTER.NS,Uniphos Enterprises Limited
+SARVESHWAR.NS,Sarveshwar Foods Limited
+BODALCHEM.NS,Bodal Chemicals Limited
+SEMAC.NS,SEMAC CONSULTANTS LIMITED
+VISAKAIND.NS,Visaka Industries Limited
+LIKHITHA.NS,Likhitha Infrastructure Limited
+WEL.NS,Wonder Electricals Limited
+ASAL.NS,Automotive Stampings and Assemblies Limited
+AMNPLST.NS,Amines & Plasticizers Limited
+GPTINFRA.NS,GPT Infraprojects Limited
+NINSYS.NS,NINtec Systems Limited
+SHIVALIK.NS,Shivalik Rasayan Limited
+VHL.NS,Vardhman Holdings Limited
+OWAIS.NS,Owais Metal And Mineral Processing Limited
+TRACXN.NS,Tracxn Technologies Limited
+EXCELINDUS.NS,Excel Industries Limited
+INFOBEAN.NS,InfoBeans Technologies Limited
+SANDESH.NS,The Sandesh Limited
+EIMCOELECO.NS,Eimco Elecon (India) Limited
+CENTENKA.NS,Century Enka Limited
+HPAL.NS,HP Adhesives Limited
+MICEL.NS,MIC Electronics Limited
+FAZE3Q.NS,Faze Three Limited
+ORIENTPPR.NS,Orient Paper & Industries Limited
+MAXIND.NS,Max India Limited
+GRPLTD.NS,GRP Limited
+DENORA.NS,De Nora India Limited
+ASALCBR.NS,Associated Alcohols & Breweries Ltd.
+GKWLIMITED.NS,GKW Limited
+VLSFINANCE.NS,VLS Finance Limited
+SPECIALITY.NS,Speciality Restaurants Limited
+CHEMCON.NS,Chemcon Speciality Chemicals Limited
+SRHHYPOLTD.NS,Sree Rayalaseema Hi-Strength Hypo Limited
+PPL.NS,Prakash Pipes Limited
+NCLIND.NS,NCL Industries Limited
+HEXATRADEX.NS,Hexa Tradex Limited
+DECCANCE.NS,Deccan Cements Limited
+SUTLEJTEX.NS,Sutlej Textiles and Industries Limited
+SPENCERS.NS,Spencer's Retail Limited
+BASILIC.NS,Basilic Fly Studio Limited
+SILVERTUC.NS,Silver Touch Technologies Limited
+SCHAND.NS,S Chand And Company Limited
+AGSTRA.NS,AGS Transact Technologies Limited
+DYCL.NS,Dynamic Cables Limited
+ALPEXSOLAR.NS,Alpex Solar Limited
+RADIANTCMS.NS,Radiant Cash Management Services Limited
+AMBIKCO.NS,Ambika Cotton Mills Limited
+BAJAJHCARE.NS,Bajaj Healthcare Limited
+RSWM.NS,RSWM Limited
+SAKAR.NS,Sakar Healthcare Limited
+MUNJALAU.NS,Munjal Auto Industries Limited
+HMVL.NS,Hindustan Media Ventures Limited
+ELDEHSG.NS,Eldeco Housing And Industries Limited
+INDOAMIN.NS,Indo Amines Limited
+DENTALKART.NS,Vasa Denticity Limited
+VIKASLIFE.NS,Vikas Lifecare Limited
+RUSHIL.NS,Rushil Decor Limited
+ADSL.NS,Allied Digital Services Limited
+BCONCEPTS.NS,Brand Concepts Limited
+DBOL.NS,Dhampur Bio Organics Limited
+LINC.NS,Linc Limited
+RADHIKAJWE.NS,Radhika Jeweltech Limited
+DHARMAJ.NS,Dharmaj Crop Guard Limited
+MAGADSUGAR.NS,Magadh Sugar & Energy Limited
+CHEVIOT.NS,Cheviot Company Limited
+VINYAS.NS,Vinyas Innovative Technologies Limited
+BALAJITELE.NS,Balaji Telefilms Limited
+OSWALGREEN.NS,Oswal Greentech Limited
+ICEMAKE.NS,Ice Make Refrigeration Limited
+GFLLIMITED.NS,GFL Limited
+PANACEABIO.NS,Panacea Biotec Limited
+STCINDIA.NS,The State Trading Corporation of India Limited
+TRU.NS,TruCap Finance Limited
+UGARSUGAR.NS,The Ugar Sugar Works Limited
+MAANALU.NS,Maan Aluminium Limited
+NRAIL.NS,N R Agarwal Industries Limited
+JAGSNPHARM.NS,Jagsonpal Pharmaceuticals Limited
+GHCLTEXTIL.NS,GHCL Textiles Limited
+ASIANTILES.NS,Asian Granito India Limited
+DAVANGERE.NS,Davangere Sugar Company Limited
+POCL.NS,Pondy Oxides & Chemicals Limited
+KOTHARIPET.NS,Kothari Petrochemicals Limited
+CONSOFINVT.NS,Consolidated Finvest & Holdings Limited
+ACL.NS,Andhra Cements Limited
+ZUARI.NS,Zuari Agro Chemicals Limited
+GRMOVER.NS,GRM Overseas Limited
+BEDMUTHA.NS,Bedmutha Industries Limited
+SUKHJITS.NS,Sukhjit Starch & Chemicals Limited
+ESTER.NS,Ester Industries Limited
+WSI.NS,W S Industries (I) Limited
+TNPETRO.NS,Tamilnadu PetroProducts Limited
+FOODSIN.NS,Foods & Inns Limited
+THEINVEST.NS,The Investment Trust Of India Limited
+DHUNINV.NS,Dhunseri Investments Limited
+TBZ.NS,Tribhovandas Bhimji Zaveri Limited
+EMKAYTOOLS.NS,Emkay Taps and Cutting Tools Limited
+KECL.NS,Kirloskar Electric Company Limited
+EMAMIPAP.NS,Emami Paper Mills Limited
+ELECTHERM.NS,Electrotherm (India) Limited
+LOKESHMACH.NS,Lokesh Machines Limited
+SELAN.NS,Selan Exploration Technology Limited
+AVG.NS,AVG Logistics Limited
+SAHANA.NS,Sahana System Limited
+DMCC.NS,DMCC SPECIALITY CHEMICALS LIMITED
+NECLIFE.NS,Nectar Lifesciences Limited
+BIRLACABLE.NS,Birla Cable Limited
+GOACARBON.NS,Goa Carbon Limited
+JGCHEM.NS,J.G.Chemicals Limited
+ANNAPURNA.NS,Annapurna Swadisht Limited
+3IINFOLTD.NS,3i Infotech Limited
+WEALTH.NS,Wealth First Portfolio Managers Limited
+PARSVNATH.NS,Parsvnath Developers Limited
+ADVANIHOTR.NS,Advani Hotels & Resorts (India) Limited
+KRITI.NS,Kriti Industries (India) Limited
+ELIN.NS,Elin Electronics Limited
+DPWIRES.NS,D P Wires Limited
+MEGASOFT.NS,Megasoft Limited
+OCCL.NS,Oriental Carbon & Chemicals Limited
+MUNJALSHOW.NS,Munjal Showa Limited
+ZEEMEDIA.NS,Zee Media Corporation Limited
+SOLEX.NS,Solex Energy Limited
+MMP.NS,MMP Industries Limited
+CHEMBOND.NS,Chembond Chemicals Ltd
+JAYAGROGN.NS,Jayant Agro Organics Limited
+JPOLYINVST.NS,Jindal Poly Investment and Finance Company Limited
+MANAKSIA.NS,Manaksia Limited
+SREEL.NS,Sreeleathers Limited
+ONMOBILE.NS,OnMobile Global Limited
+SBC.NS,SBC Exports Limited
+SPMLINFRA.NS,SPML Infra Limited
+BHAGERIA.NS,Bhageria Industries Limited
+VALIANTLAB.NS,Valiant Laboratories Limited
+MENONBE.NS,Menon Bearings Limited
+KILITCH.NS,Kilitch Drugs (India) Limited
+PAVNAIND.NS,Pavna Industries Limited
+KHAICHEM.NS,Khaitan Chemicals & Fertilizers Limited
+FCSSOFT.NS,FCS Software Solutions Limited
+MALLCOM.NS,Mallcom (India) Limited
+NRL.NS,Nupur Recyclers Limited
+PHANTOMFX.NS,Phantom Digital Effects Limited
+APEX.NS,Apex Frozen Foods Limited
+KAMATHOTEL.NS,Kamat Hotels (I) Limited
+HTMEDIA.NS,HT Media Limited
+RUBYMILLS.NS,The Ruby Mills Limited
+ALBERTDAVD.NS,Albert David Limited
+KODYTECH.NS,Kody Technolab Limited
+LGHL.NS,Laxmi Goldorna House Limited
+PRIMESECU.NS,Prime Securities Limited
+RBZJEWEL.NS,RBZ Jewellers Limited
+PLASTIBLEN.NS,Plastiblends India Limited
+IRISDOREME.NS,Iris Clothings Limited
+PDMJEPAPER.NS,Pudumjee Paper Products Limited
+INDSWFTLAB.NS,Ind-Swift Laboratories Limited
+MIRZAINT.NS,Mirza International Limited
+STEL.NS,Stel Holdings Limited
+SAKUMA.NS,Sakuma Exports Limited
+SIMPLEXINF.NS,Simplex Infrastructures Limited
+ARROWGREEN.NS,Arrow Greentech Limited
+VINYLINDIA.NS,Vinyl Chemicals (India) Limited
+OSWALAGRO.NS,Oswal Agro Mills Limited
+HINDCOMPOS.NS,Hindustan Composites Limited
+ARIHANTCAP.NS,Arihant Capital Markets Limited
+MBLINFRA.NS,MBL Infrastructure Limited
+DEEPENR.NS,DEEP ENERGY RESOURCES LIMITED
+ORICONENT.NS,Oricon Enterprises Limited
+SHREYAS.NS,Shreyas Shipping & Logistics Limited
+SKMEGGPROD.NS,SKM Egg Products Export (India) Limited
+ORIENTCER.NS,ORIENT CERATECH LIMITED
+DIGISPICE.NS,DiGiSPICE Technologies Limited
+ZODIAC.NS,Zodiac Energy Limited
+KRISHIVAL.NS,Krishival Foods Limited
+JETAIRWAYS.NS,Jet Airways (India) Limited
+RATNAVEER.NS,Ratnaveer Precision Engineering Limited
+JINDALPHOT.NS,Jindal Photo Limited
+RADIOCITY.NS,Music Broadcast Limited
+HCL-INSYS.NS,HCL Infosystems Limited
+RBL.NS,Rane Brake Lining Limited
+KHADIM.NS,Khadim India Limited
+AXITA.NS,Axita Cotton Limited
+ASMS.NS,Bartronics India Limited
+BIRLAMONEY.NS,Aditya Birla Money Limited
+VISHNUINFR.NS,Vishnusurya Projects and Infra Limited
+VLEGOV.NS,VL E-Governance & IT Solutions Limited
+BBTCL.NS,B&B Triplewall Containers Limited
+NAGAFERT.NS,Nagarjuna Fertilizers and Chemicals Limited
+GEECEE.NS,GeeCee Ventures Limited
+RACE.NS,Race Eco Chain Limited
+RITCO.NS,Ritco Logistics Limited
+TCLCONS.NS,Tantia Constructions Limited
+BALAXI.NS,BALAXI PHARMACEUTICALS LIMITED
+PYRAMID.NS,Pyramid Technoplast Limited
+REMSONSIND.NS,Remsons Industries Limited
+UFO.NS,UFO Moviez India Limited
+ACCENTMIC.NS,Accent Microcell Limited
+PTL.NS,PTL Enterprises Limited
+INDOBORAX.NS,Indo Borax & Chemicals Limited
+MOLDTECH.NS,Mold-Tek Technologies Limited
+MAZDA.NS,Mazda Limited
+MINDTECK.NS,Mindteck (India) Limited
+COOLCAPS.NS,Cool Caps Industries Limited
+ALLETEC.NS,All E Technologies Limited
+20MICRONS.NS,20 Microns Limited
+VIKASECO.NS,Vikas EcoTech Limited
+ORIENTBELL.NS,Orient Bell Limited
+DONEAR.NS,Donear Industries Limited
+CAREERP.NS,Career Point Limited
+INTLCONV.NS,International Conveyors Limited
+SHREEPUSHK.NS,Shree Pushkar Chemicals & Fertilisers Limited
+PRITIKAUTO.NS,Pritika Auto Industries Limited
+DIAMINESQ.NS,Diamines & Chemicals Limited
+SILINV.NS,SIL Investments Limited
+BANSWRAS.NS,Banswara Syntex Limited
+SADBHAV.NS,Sadbhav Engineering Limited
+APCL.NS,Anjani Portland Cement Limited
+NAHARINDUS.NS,Nahar Industrial Enterprises Limited
+DUGLOBAL.NS,DUDIGITAL GLOBAL LIMITED
+GEEKAYWIRE.NS,Geekay Wires Limited
+SGIL.NS,Synergy Green Industries Limited
+TIRUPATI.NS,Shree Tirupati Balajee FIBC Limited
+MEDICAMEQ.NS,Medicamen Biotech Limited
+MEGATHERM.NS,Megatherm Induction Limited
+TPLPLASTEH.NS,TPL Plastech Limited
+RSSOFTWARE.NS,R. S. Software (India) Limited
+RBMINFRA.NS,Rbm Infracon Limited
+WANBURY.NS,Wanbury Limited
+GENUSPAPER.NS,Genus Paper & Boards Limited
+KANORICHEM.NS,Kanoria Chemicals & Industries Limited
+VSTL.NS,Vibhor Steel Tubes Limited
+LIBERTSHOE.NS,Liberty Shoes Limited
+GLOBAL.NS,Global Education Limited
+BRNL.NS,Bharat Road Network Limited
+NOVAAGRI.NS,Nova Agritech Limited
+TVSELECT.NS,TVS Electronics Limited
+VINSYS.NS,Vinsys IT Services India Limited
+NDL.NS,Nandan Denim Limited
+KRITINUT.NS,Kriti Nutrients Limited
+NAHARCAP.NS,Nahar Capital and Financial Services Limited
+CLEDUCATE.NS,CL Educate Limited
+ZIMLAB.NS,Zim Laboratories Limited
+SHIVAMAUTO.NS,Shivam Autotech Limited
+SYSTANGO.NS,Systango Technologies Limited
+UNIDT.NS,United Drilling Tools Limited
+SARLAPOLY.NS,Sarla Performance Fibers Limited
+WTICAB.NS,Wise Travel India Limited
+KRITIKA.NS,Kritika Wires Limited
+TRF.NS,TRF Limited
+AUTOIND.NS,Autoline Industries Limited
+MUTHOOTCAP.NS,Muthoot Capital Services Limited
+PURVFLEXI.NS,Purv Flexipack Limited
+NBIFIN.NS,N. B. I. Industrial Finance Company Limited
+AYMSYNTEX.NS,AYM Syntex Limited
+MIRCELECTR.NS,MIRC Electronics Limited
+NAHARPOLY.NS,Nahar Poly Films Limited
+IITL.NS,Industrial Investment Trust Limited
+GOLDTECH.NS,AION-TECH SOLUTIONS LIMITED
+VENUSREM.NS,Venus Remedies Limited
+KRISHNADEF.NS,Krishna Defence and Allied Industries Limited
+WINDMACHIN.NS,Windsor Machines Limited
+APS.NS,Australian Premium Solar (India) Limited
+APOLSINHOT.NS,Apollo Sindoori Hotels Limited
+BPL.NS,BPL Limited
+CYBERTECH.NS,Cybertech Systems And Software Limited
+KOTARISUG.NS,Kothari Sugars And Chemicals Limited
+IL&FSENGG.NS,IL&FS Engineering and Construction Company Limited
+SHIVAUM.NS,Shiv Aum Steels Limited
+ESSARSHPNG.NS,Essar Shipping Limited
+CELLECOR.NS,Cellecor Gadgets Limited
+PROZONER.NS,Prozone Realty Limited
+AARTISURF.NS,Aarti Surfactants Limited
+LAL.NS,Lorenzini Apparels Limited
+CINELINE.NS,Cineline India Limited
+TECHLABS.NS,Trident Techlabs Limited
+FELIX.NS,Felix Industries Limited
+NIPPOBATRY.NS,Indo-National Limited
+PREMIERPOL.NS,Premier Polyfilm Limited
+VARDHACRLC.NS,Vardhman Acrylics Limited
+RPPINFRA.NS,R.P.P. Infra Projects Limited
+HIGREEN.NS,Hi-Green Carbon Limited
+SURANI.NS,Surani Steel Tubes Limited
+NILAINFRA.NS,Nila Infrastructures Limited
+KAYA.NS,Kaya Limited
+SJLOGISTIC.NS,S J Logistics (India) Limited
+CRAYONS.NS,Crayons Advertising Limited
+NITCO.NS,Nitco Limited
+EUROBOND.NS,Euro Panel Products Limited
+MEDICO.NS,Medico Remedies Limited
+ALANKIT.NS,Alankit Limited
+EMAMIREAL.NS,Emami Realty Limited
+SAAKSHI.NS,Saakshi Medtech and Panels Limited
+SEJALLTD.NS,Sejal Glass Limited
+SHEMAROO.NS,Shemaroo Entertainment Limited
+BEWLTD.NS,BEW Engineering Limited
+IFBAGRO.NS,IFB Agro Industries Limited
+DICIND.NS,DIC India Limited
+PRECOT.NS,Precot Limited
+ASAHISONG.NS,Asahi Songwon Colors Limited
+ORBTEXP.NS,Orbit Exports Limited
+MODISONLTD.NS,MODISON LIMITED
+AURUM.NS,Aurum PropTech Limited
+KDL.NS,Kore Digital Limited
+EXXARO.NS,Exxaro Tiles Limited
+KARNIKA.NS,Karnika Industries Limited
+SAHYADRI.NS,Sahyadri Industries Limited
+SKP.NS,SKP Bearing Industries Limited
+KCPSUGIND.NS,KCP Sugar and Industries Corporation Limited
+MKPL.NS,M K Proteins Limited
+MANAKSTEEL.NS,Manaksia Steels Limited
+UNIVPHOTO.NS,Universus Photo Imagings Limited
+SCPL.NS,Sheetal Cool Products Limited
+SIGMA.NS,Sigma Solve Limited
+IZMO.NS,IZMO Limited
+SINTERCOM.NS,Sintercom India Limited
+FOCE.NS,Foce India Limited
+PODDARMENT.NS,Poddar Pigments Limited
+PLAZACABLE.NS,Plaza Wires Limited
+DCMNVL.NS,DCM Nouvelle Limited
+SHYAMCENT.NS,Shyam Century Ferrous Limited
+SAKHTISUG.NS,Sakthi Sugars Limited
+ESFL.NS,Essen Speciality Films Limited
+ATMASTCO.NS,Atmastco Limited
+KORE.NS,Jay Jalaram Technologies Limited
+LYKALABS.NS,Lyka Labs Limited
+STARPAPER.NS,Star Paper Mills Limited
+SRGHFL.NS,SRG Housing Finance Limited
+HINDMOTORS.NS,Hindustan Motors Limited
+PONNIERODE.NS,Ponni Sugars (Erode) Limited
+ASHIMASYN.NS,Ashima Limited
+KOTHARIPRO.NS,Kothari Products Limited
+GOKUL.NS,Gokul Refoils and Solvent Limited
+HITECHCORP.NS,Hitech Corporation Limited
+DIGIKORE.NS,Digikore Studios Limited
+KNAGRI.NS,KN Agri Resources Limited
+URAVI.NS,Uravi T and Wedge Lamps Limited
+LAWSIKHO.NS,Addictive Learning Technology Limited
+GOLDSTAR.NS,Goldstar Power Limited
+TCL.NS,Thaai Casting Limited
+RUCHIRA.NS,Ruchira Papers Limited
+MAHEPC.NS,Mahindra EPC Irrigation Limited
+PROV.NS,Proventus Agrocom Limited
+OSIAHYPER.NS,Osia Hyper Retail Limited
+MAWANASUG.NS,Mawana Sugars Limited
+RHL.NS,Robust Hotels Limited
+NATHBIOGEN.NS,Nath Bio-Genes (India) Limited
+EIFFL.NS,Euro India Fresh Foods Limited
+SARTELE.NS,Sar Televenture Limited
+VIPULLTD.NS,Vipul Limited
+ESSENTIA.NS,Integra Essentia Limited
+MWL.NS,Mangalam Worldwide Limited
+UCAL.NS,UCAL LIMITED
+PASUPTAC.NS,Pasupati Acrylon Limited
+DRONE.NS,Drone Destination Limited
+INFINIUM.NS,Infinium Pharmachem Limited
+COASTCORP.NS,Coastal Corporation Limited
+MOS.NS,Mos Utility Limited
+BIL.NS,Bhartiya International Limited
+INDTERRAIN.NS,Indian Terrain Fashions Limited
+ARIES.NS,Aries Agro Limited
+SHREERAMA.NS,Shree Rama Multi-Tech Limited
+DYNPRO.NS,Dynemic Products Limited
+SHERA.NS,Shera Energy Limited
+MHLXMIRU.NS,Mahalaxmi Rubtech Limited
+NDLVENTURE.NS,NDL Ventures Limited
+GULFPETRO.NS,GP Petroleums Limited
+TAKE.NS,Take Solutions Limited
+EQUIPPP.NS,Equippp Social Impact Technologies Limited
+SMLT.NS,Sarthak Metals Limited
+HARRMALAYA.NS,Harrisons  Malayalam Limited
+UMAEXPORTS.NS,Uma Exports Limited
+LANCORHOL.NS,Lancor Holdings Limited
+PROPEQUITY.NS,P. E. Analytics Limited
+SOFTTECH.NS,Softtech Engineers Limited
+MANOMAY.NS,Manomay Tex India Limited
+REPL.NS,Rudrabhishek Enterprises Limited
+RANASUG.NS,Rana Sugars Limited
+NEWJAISA.NS,Newjaisa Technologies Limited
+SHREYANIND.NS,Shreyans Industries Limited
+IVC.NS,IL&FS Investment Managers Limited
+RAJTV.NS,Raj Television Network Limited
+VIPCLOTHNG.NS,VIP Clothing Limited
+ABINFRA.NS,A B Infrabuild Limited
+TIPSFILMS.NS,Tips Films Limited
+SOUTHWEST.NS,South West Pinnacle Exploration Limited
+ABAN.NS,Aban Offshore Limited
+AIRAN.NS,Airan Limited
+SUPREMEPWR.NS,Supreme Power Equipment Limited
+VIRINCHI.NS,Virinchi Limited
+GOYALSALT.NS,Goyal Salt Limited
+TRIGYN.NS,Trigyn Technologies Limited
+EMKAY.NS,Emkay Global Financial Services Limited
+INDOTHAI.NS,Indo Thai Securities Limited
+RAJMET.NS,Rajnandini Metal Limited
+RAMAPHO.NS,Rama Phosphates Limited
+MGEL.NS,Mangalam Global Enterprise Limited
+LORDSCHLO.NS,Lords Chloro Alkali Limited
+SWARAJ.NS,Swaraj Suiting Limited
+RPPL.NS,Rajshree Polypack Limited
+ALMONDZ.NS,Almondz Global Securities Limited
+TEMBO.NS,Tembo Global Industries Limited
+ZODIACLOTH.NS,Zodiac Clothing Company Limited
+ASCOM.NS,Ascom Leasing & Investments Limited
+PILITA.NS,PIL ITALICA LIFESTYLE LIMITED
+AARON.NS,Aaron Industries Limited
+JAYSREETEA.NS,Jayshree Tea & Industries Limited
+KRISHCA.NS,Krishca Strapping Solutions Limited
+INTENTECH.NS,Intense Technologies Limited
+RUCHINFRA.NS,Ruchi Infrastructure Limited
+MURUDCERA.NS,Murudeshwar Ceramics Limited
+DRCSYSTEMS.NS,DRC Systems India Limited
+SUNDRMBRAK.NS,Sundaram Brake Linings Limited
+VISHWARAJ.NS,Vishwaraj Sugar Industries Limited
+USK.NS,Udayshivakumar Infra Limited
+HINDCON.NS,Hindcon Chemicals Limited
+OSWALSEEDS.NS,ShreeOswal Seeds And Chemicals Limited
+PAR.NS,Par Drugs And Chemicals Limited
+MEGASTAR.NS,Megastar Foods Limited
+ZEAL.NS,Zeal Global Services Limited
+BHAGYANGR.NS,Bhagyanagar India Limited
+KONSTELEC.NS,Konstelec Engineers Limited
+WELINV.NS,Welspun Investments and Commercials Limited
+MARALOVER.NS,Maral Overseas Limited
+MAGNUM.NS,Magnum Ventures Limited
+GINNIFILA.NS,Ginni Filaments Limited
+SADHAV.NS,Sadhav Shipping Limited
+TARACHAND.NS,Tara Chand InfraLogistic Solutions Limited
+KMSUGAR.NS,K.M.Sugar Mills Limited
+ASIANHOTNR.NS,Asian Hotels (North) Limited
+SVLL.NS,Shree Vasu Logistics Limited
+GUJAPOLLO.NS,Gujarat Apollo Industries Limited
+NURECA.NS,Nureca Limited
+STARTECK.NS,Starteck Finance Limited
+FROG.NS,Frog Cellsat Limited
+PRAXIS.NS,Praxis Home Retail Limited
+SHREEKARNI.NS,Shree Karni Fabcom Limited
+COMSYN.NS,Commercial Syn Bags Limited
+ABCOTS.NS,A B Cotspin India Limited
+BGRENERGY.NS,BGR Energy Systems Limited
+RKEC.NS,RKEC Projects Limited
+MCLEODRUSS.NS,Mcleod Russel India Limited
+CHAVDA.NS,Chavda Infra Limited
+LOYALTEX.NS,Loyal Textile Mills Limited
+KAPSTON.NS,Kapston Services Limited
+BROOKS.NS,Brooks Laboratories Limited
+THOMASCOTT.NS,Thomas Scott (India) Limited
+BASML.NS,Bannari Amman Spinning Mills Limited
+RVHL.NS,Ravinder Heights Limited
+PPAP.NS,PPAP Automotive Limited
+DELPHIFX.NS,DELPHI WORLD MONEY LIMITED
+ELGIRUBCO.NS,Elgi Rubber Company Limited
+SADBHIN.NS,Sadbhav Infrastructure Project Limited
+DCI.NS,Dc Infotech And Communication Limited
+ANMOL.NS,Anmol India Limited
+A2ZINFRA.NS,A2Z Infra Engineering Limited
+AHLEAST.NS,Asian Hotels (East) Limited
+VETO.NS,Veto Switchgears And Cables Limited
+MANORG.NS,Mangalam Organics Limited
+SAH.NS,Sah Polymers Limited
+ROXHITECH.NS,Rox Hi Tech Limited
+AIROLAM.NS,Airo Lam limited
+BAIDFIN.NS,Baid Finserv Limited
+SELMC.NS,SEL Manufacturing Company Limited
+DRSDILIP.NS,DRS Dilip Roadlines Limited
+TEXMOPIPES.NS,Texmo Pipes and Products Limited
+TTL.NS,T T Limited
+GIRRESORTS.NS,GIR Natureview Resorts Limited
+MANAKCOAT.NS,Manaksia Coated Metals & Industries Limited
+JMA.NS,Jullundur Motor Agency (Delhi) Limited
+CORDSCABLE.NS,Cords Cable Industries Limited
+DEVIT.NS,Dev Information Technology Limited
+IRIS.NS,Iris Business Services Limited
+CROWN.NS,Crown Lifters Limited
+RANEENGINE.NS,Rane Engine Valve Limited
+OMAXAUTO.NS,Omax Autos Limited
+TREJHARA.NS,TREJHARA SOLUTIONS LIMITED
+NILASPACES.NS,Nila Spaces Limited
+BYKE.NS,The Byke Hospitality Ltd
+MODIRUBBER.NS,Modi Rubber Limited
+ANLON.NS,Anlon Technology Solutions Limited
+PRITI.NS,Priti International Limited
+PARAGON.NS,Paragon Fine and Speciality Chemical Limited
+NECCLTD.NS,North Eastern Carrying Corporation Limited
+CCHHL.NS,Country Club Hospitality & Holidays Limited
+SUPERHOUSE.NS,Superhouse Limited
+RAMANEWS.NS,Shree Rama Newsprint Limited
+HILTON.NS,Hilton Metal Forging Limited
+NDGL.NS,Naga Dhunseri Group Limited
+GSS.NS,GSS Infotech Limited
+LGBFORGE.NS,LGB Forge Limited
+INDOWIND.NS,Indowind Energy Limited
+MEP.NS,MEP Infrastructure Developers Limited
+BTML.NS,Bodhi Tree Multimedia Limited
+VMARCIND.NS,V Marc India Limited
+UNITEDPOLY.NS,United Polyfab Gujarat Limited
+RMDRIP.NS,R M Drip and Sprinklers Systems Limited
+ALPHAGEO.NS,Alphageo (India) Limited
+QMSMEDI.NS,QMS Medical Allied Services Limited
+USASEEDS.NS,Upsurge Seeds Of Agriculture Limited
+UNIHEALTH.NS,Unihealth Consultancy Limited
+ROCKINGDCE.NS,Rockingdeals Circular Economy Limited
+ESCONET.NS,Esconet Technologies Limited
+SMSLIFE.NS,SMS Lifesciences India Limited
+VARDMNPOLY.NS,Vardhman Polytex Limited
+AVONMORE.NS,Avonmore Capital & Management Services Limited
+LAGNAM.NS,Lagnam Spintex Limited
+AKSHARCHEM.NS,AksharChem India Limited
+MODTHREAD.NS,Modern Threads (India) Limited
+SSFL.NS,Srivari Spices And Foods Limited
+IEL.NS,Indiabulls Enterprises Limited
+BAHETI.NS,Baheti Recycling Industries Limited
+ZEELEARN.NS,Zee Learn Limited
+GENCON.NS,Generic Engineering Construction and Projects Limited
+SURANAT&P.NS,Surana Telecom and Power Limited
+DELAPLEX.NS,Delaplex Limited
+ASPINWALL.NS,Aspinwall and Company Limited
+DTIL.NS,Dhunseri Tea & Industries Limited
+DENEERS.NS,De Neers Tools Limited
+KCEIL.NS,Kay Cee Energy & Infra Limited
+AVPINFRA.NS,AVP Infracon Limited
+KANPRPLA.NS,Kanpur Plastipack Limited
+CMNL.NS,Chaman Metallics Limited
+RAJSREESUG.NS,Rajshree Sugars & Chemicals Limited
+KBCGLOBAL.NS,KBC Global Limited
+EFORCE.NS,Electro Force (India) Limited
+AURDIS.NS,Aurangabad Distillery Limited
+INDBANK.NS,Indbank Merchant Banking Services Limited
+TARMAT.NS,Tarmat Limited
+INM.NS,Interiors & More Limited
+MAXPOSURE.NS,Maxposure Limited
+INFOLLION.NS,Infollion Research Services Limited
+BAFNAPH.NS,Bafna Pharmaceuticals Limited
+MAHAPEXLTD.NS,Maha Rashtra Apex Corporation Limited
+EFACTOR.NS,E Factor Experiences Limited
+CLOUD.NS,Varanium Cloud Limited
+COMPUSOFT.NS,Compucom Software Limited
+DJML.NS,DJ Mediaprint & Logistics Limited
+DUCON.NS,Ducon Infratechnologies Limited
+ATLANTAA.NS,ATLANTAA LIMITED
+PRATHAM.NS,Pratham EPC Projects Limited
+MADHAVBAUG.NS,Vaidya Sane Ayurved Laboratories Limited
+MAHESHWARI.NS,Maheshwari Logistics Limited
+SHIVATEX.NS,Shiva Texyarn Limited
+SIGIND.NS,Signet Industries Limited
+DHRUV.NS,Dhruv Consultancy Services Limited
+SECL.NS,Salasar Exteriors and Contour Limited
+NITIRAJ.NS,Nitiraj Engineers Limited
+INVENTURE.NS,Inventure Growth & Securities Limited
+ATAM.NS,Atam Valves Limited
+SPECTSTM.NS,Spectrum Talent Management Limited
+AARVI.NS,Aarvi Encon Limited
+WEIZMANIND.NS,Weizmann Limited
+SALSTEEL.NS,S.A.L. Steel Limited
+ALPA.NS,Alpa Laboratories Limited
+GVPTECH.NS,GVP Infotech Limited
+SHREEOSFM.NS,Shree OSFM E-Mobility Limited
+SONAMAC.NS,Sona Machinery Limited
+GLOBALVECT.NS,Global Vectra Helicorp Limited
+MANAKALUCO.NS,Manaksia Aluminium Company Limited
+INCREDIBLE.NS,INCREDIBLE INDUSTRIES LIMITED
+BLBLIMITED.NS,BLB Limited
+EROSMEDIA.NS,Eros International Media Limited
+SUPREMEINF.NS,Supreme Infrastructure India Limited
+SMARTLINK.NS,Smartlink Holdings Limited
+VITAL.NS,Vital Chemtech Limited
+VISESHINFO.NS,Visesh Infotecnics Limited
+CADSYS.NS,Cadsys (India) Limited
+XELPMOC.NS,Xelpmoc Design And Tech Limited
+SWASTIK.NS,Swastik Pipe Limited
+PRAENG.NS,Prajay Engineers Syndicate Limited
+MUKTAARTS.NS,Mukta Arts Limited
+PARIN.NS,Parin Furniture Limited
+VIVIANA.NS,Viviana Power Tech Limited
+UMANGDAIRY.NS,Umang Dairies Limited
+BSL.NS,BSL Limited
+MAHASTEEL.NS,Mahamaya Steel Industries Limited
+ARCHIDPLY.NS,Archidply Industries Limited
+CTE.NS,Cambridge Technology Enterprises Limited
+ARSHIYA.NS,Arshiya Limited
+AARTECH.NS,Aartech Solonics Limited
+SALONA.NS,Salona Cotspin Limited
+LOVABLE.NS,Lovable Lingerie Limited
+CANARYS.NS,Canarys Automations Limited
+BAWEJA.NS,Baweja Studios Limited
+URBAN.NS,Urban Enviro Waste Management Limited
+BAGFILMS.NS,B.A.G Films and Media Limited
+ISFT.NS,Intrasoft Technologies Limited
+KLL.NS,Kaushalya Logistics Limited
+GREENCHEF.NS,Greenchef Appliances Limited
+IVP.NS,IVP Limited
+WORTH.NS,Worth Peripherals Limited
+SONAMLTD.NS,SONAM LIMITED
+SUMIT.NS,Sumit Woods Limited
+TIRUPATIFL.NS,Tirupati Forge Limited
+EMMBI.NS,Emmbi Industries Limited
+ARVEE.NS,Arvee Laboratories (India) Limited
+UNITEDTEA.NS,The United Nilgiri Tea Estates Company Limited
+UNIVASTU.NS,Univastu India Limited
+LLOYDS.NS,Lloyds Luxuries Limited
+SURANASOL.NS,Surana Solar Limited
+SOMICONVEY.NS,Somi Conveyor Beltings Limited
+KAKATCEM.NS,Kakatiya Cement Sugar & Industries Limited
+SHIGAN.NS,Shigan Quantum Technologies Limited
+BHARATGEAR.NS,Bharat Gears Limited
+ONDOOR.NS,On Door Concepts Limited
+OILCOUNTUB.NS,Oil Country Tubular Limited
+SPLIL.NS,SPL Industries Limited
+CAPTRUST.NS,Capital Trust Limited
+FIDEL.NS,Fidel Softech Limited
+MDL.NS,Marvel Decor Limited
+3RDROCK.NS,3rd Rock Multimedia Limited
+VEEKAYEM.NS,Veekayem Fashion and Apparels Limited
+DYNAMIC.NS,Dynamic Services & Security Limited
+GILLANDERS.NS,Gillanders Arbuthnot & Company Limited
+CENTEXT.NS,Century Extrusions Limited
+SHRITECH.NS,Shri Techtex Limited
+TOTAL.NS,Total Transport Systems Limited
+MITCON.NS,MITCON Consultancy & Engineering Services Limited
+ARHAM.NS,Arham Technologies Limited
+TOUCHWOOD.NS,Touchwood Entertainment Limited
+JOCIL.NS,Jocil Limited
+VAISHALI.NS,Vaishali Pharma Limited
+FCONSUMER.NS,Future Consumer Limited
+DIGIDRIVE.NS,Digidrive Distributors Limited
+KEL.NS,Kundan Edifice Limited
+CORALFINAC.NS,Coral India Finance & Housing Limited
+ACCURACY.NS,Accuracy Shipping Limited
+KALYANIFRG.NS,Kalyani Forge Limited
+NIRAJ.NS,Niraj Cement Structurals Limited
+SRIVASAVI.NS,Srivasavi Adhesive Tapes Limited
+IPSL.NS,Integrated Personnel Services Limited
+GTL.NS,GTL Limited
+RELCHEMQ.NS,Reliance Chemotex Industries Limited
+INDIANCARD.NS,Indian Card Clothing Company Limited
+MANGALAM.NS,Mangalam Drugs And Organics Limited
+PALREDTEC.NS,Palred Technologies Limited
+SIL.NS,Standard Industries Limited
+LEMERITE.NS,Le Merite Exports Limited
+BALPHARMA.NS,Bal Pharma Limited
+KOHINOOR.NS,Kohinoor Foods Limited
+AKANKSHA.NS,Akanksha Power and Infrastructure Limited
+RHFL.NS,Reliance Home Finance Limited
+LAMBODHARA.NS,Lambodhara Textiles Limited
+CUBEXTUB.NS,Cubex Tubings Limited
+GOLDKART.NS,Goldkart Jewels Limited
+AHLADA.NS,Ahlada Engineers Limited
+BEARDSELL.NS,Beardsell Limited
+IL&FSTRANS.NS,IL&FS Transportation Networks Limited
+HPIL.NS,Hindprakash Industries Limited
+PANSARI.NS,Pansari Developers Limited
+AMJLAND.NS,Amj Land Holdings Limited
+NOIDATOLL.NS,Noida Toll Bridge Company Limited
+DBSTOCKBRO.NS,DB (International) Stock Brokers Limited
+HOMESFY.NS,Homesfy Realty Limited
+S&SPOWER.NS,S&S Power Switchgears Limited
+GRCL.NS,Gayatri Rubbers And Chemicals Limited
+PULZ.NS,Pulz Electronics Limited
+AKI.NS,AKI India Limited
+AGRITECH.NS,Agri-Tech (India) Limited
+DCM.NS,DCM  Limited
+PRAKASHSTL.NS,Prakash Steelage Limited
+SOTAC.NS,Sotac Pharmaceuticals Limited
+SHRADHA.NS,Shradha Infraprojects Limited
+MADHUSUDAN.NS,Madhusudan Masala Limited
+JAINAM.NS,Jainam Ferro Alloys (I) Limited
+FONEBOX.NS,Fonebox Retail Limited
+SUNDARAM.NS,Sundaram Multi Pap Limited
+MRO-TEK.NS,MRO-TEK Realty Limited
+KREBSBIO.NS,Krebs Biochemicals and Industries Limited
+KHFM.NS,Khfm Hospitality And Facility Management Services Limited
+PASHUPATI.NS,Pashupati Cotspin Limited
+DUCOL.NS,Ducol Organics And Colours Limited
+AKSHOPTFBR.NS,Aksh Optifibre Limited
+WIPL.NS,The Western India Plywoods Limited
+PATINTLOG.NS,Patel Integrated Logistics Limited
+IBLFL.NS,IBL Finance Limited
+VR.NS,V R Infraspace Limited
+GICL.NS,Globe International Carriers Limited
+JHS.NS,JHS Svendgaard Laboratories Limited
+FLEXITUFF.NS,Flexituff Ventures International Limited
+AUSOMENT.NS,Ausom Enterprise Limited
+DANGEE.NS,Dangee Dums Limited
+DGCONTENT.NS,Digicontent Limited
+ARTNIRMAN.NS,Art Nirman Limited
+SHAH.NS,Shah Metacorp Limited
+SECURKLOUD.NS,SECUREKLOUD TECHNOLOGIES LIMITED
+SURYALAXMI.NS,Suryalakshmi Cotton Mills Limited
+BVCL.NS,Barak Valley Cements Limited
+GOYALALUM.NS,Goyal Aluminiums Limited
+TRANSTEEL.NS,Transteel Seating Technologies Limited
+BHANDARI.NS,Bhandari Hosiery Exports Limited
+PARTYCRUS.NS,Party Cruisers Limited
+MOTOGENFIN.NS,The Motor & General Finance Limited
+PALASHSECU.NS,Palash Securities Limited
+ANIKINDS.NS,Anik Industries Limited
+SHAHALLOYS.NS,Shah Alloys Limited
+TAINWALCHM.NS,Tainwala Chemical and Plastic (I) Limited
+SUVIDHAA.NS,Suvidhaa Infoserve Limited
+LOTUSEYE.NS,Lotus Eye Hospital and Institute Limited
+GANGESSECU.NS,Ganges Securities Limited
+AGNI.NS,Agni Green Power Limited
+SIKKO.NS,Sikko Industries Limited
+AMDIND.NS,AMD Industries Limited
+STEELCITY.NS,Steel City Securities Limited
+TPHQ.NS,Teamo Productions HQ Limited
+GLOBE.NS,Globe Textiles (India) Limited
+FRETAIL.NS,Future Retail Limited
+SOMATEX.NS,Soma Textiles & Industries Limited
+AAREYDRUGS.NS,Aarey Drugs & Pharmaceuticals Limited
+QUICKTOUCH.NS,Quicktouch Technologies Limited
+LASA.NS,Lasa Supergenerics Limited
+ZENITHDRUG.NS,Zenith Drugs Limited
+ZENITHSTL.NS,Zenith Steel Pipes & Industries Limited
+LPDC.NS,Landmark Property Development Company Limited
+NIRMAN.NS,Nirman Agri Genetics Limited
+NAGREEKEXP.NS,Nagreeka Exports Limited
+AVROIND.NS,AVRO INDIA LIMITED
+ALKALI.NS,Alkali Metals Limited
+AAATECH.NS,AAA Technologies Limited
+CINEVISTA.NS,Cinevista Limited
+ENERGYDEV.NS,Energy Development Company Limited
+ATALREAL.NS,Atal Realtech Limited
+GROBTEA.NS,The Grob Tea Company Limited
+SIMBHALS.NS,Simbhaoli Sugars Limited
+GLOBALPET.NS,Global Pet Industries Limited
+BANKA.NS,Banka BioLoo Limited
+PIONEEREMB.NS,Pioneer Embroideries Limited
+KEYFINSERV.NS,Keynote Financial Services Limited
+PKTEA.NS,The Peria Karamalai Tea & Produce Company Limited
+DELTAMAGNT.NS,Delta Manufacturing Limited
+ARCHIES.NS,Archies Limited
+MAHICKRA.NS,Mahickra Chemicals Limited
+OBCL.NS,Orissa Bengal Carrier Limited
+SAIFL.NS,Sameera Agro And Infra Limited
+INDSWFTLTD.NS,Ind-Swift Limited
+BIOFILCHEM.NS,Biofil Chemicals & Pharmaceuticals Limited
+VINNY.NS,Vinny Overseas Limited
+SAMBHAAV.NS,Sambhaav Media Limited
+DAMODARIND.NS,Damodar Industries Limited
+GANGAFORGE.NS,Ganga Forging Limited
+MHHL.NS,Mohini Health & Hygiene Limited
+VASWANI.NS,Vaswani Industries Limited
+HISARMETAL.NS,Hisar Metal Industries Limited
+PARASPETRO.NS,Paras Petrofils Limited
+SECMARK.NS,SecMark Consultancy Limited
+CELEBRITY.NS,Celebrity Fashions Limited
+PRESSTONIC.NS,Presstonic Engineering Limited
+SYNOPTICS.NS,Synoptics Technologies Limited
+YAARI.NS,Yaari Digital Integrated Services Limited
+AAKASH.NS,Aakash Exploration Services Limited
+REGENCERAM.NS,Regency Ceramics Limited
+TOKYOPLAST.NS,Tokyo Plast International Limited
+ZENITHEXPO.NS,Zenith Exports Limited
+MOKSH.NS,Moksh Ornaments Limited
+DOLLEX.NS,Dollex Agrotech Limited
+ARABIAN.NS,Arabian Petroleum Limited
+TREEHOUSE.NS,Tree House Education & Accessories Limited
+DEEM.NS,Deem Roll Tech Limited
+ARIHANTACA.NS,Arihant Academy Limited
+ASTRON.NS,Astron Paper & Board Mill Limited
+PANACHE.NS,Panache Digilife Limited
+PRITIKA.NS,Pritika Engineering Components Limited
+SAMPANN.NS,Sampann Utpadan India Limited
+ENFUSE.NS,Enfuse Solutions Limited
+MCL.NS,Madhav Copper Limited
+FIBERWEB.NS,Fiberweb (India) Limited
+PROLIFE.NS,Prolife Industries Limited
+PRECISION.NS,Precision Metaliks Limited
+BABAFP.NS,Baba Food Processing (India) Limited
+AUROIMPEX.NS,Auro Impex  & Chemicals Limited
+PRAMARA.NS,Pramara Promotions Limited
+PENTAGON.NS,Pentagon Rubber Limited
+MAL.NS,Mangalam Alloys Limited
+PIGL.NS,Power & Instrumentation (Gujarat) Limited
+RCDL.NS,Rajgor Castor Derivatives Limited
+MBECL.NS,Mcnally Bharat Engineering Company Limited
+SETCO.NS,Setco Automotive Limited
+HOLMARC.NS,Holmarc Opto-Mechatronics Limited
+TIMESGTY.NS,Times Guaranty Limited
+MAITREYA.NS,Maitreya Medicare Limited
+NIBL.NS,NRB Industrial Bearings Limited
+SIGNORIA.NS,Signoria Creation Limited
+KARMAENG.NS,Karma Energy Limited
+AVSL.NS,AVSL Industries Limited
+VELS.NS,Vels Film International Limited
+LATTEYS.NS,Latteys Industries Limited
+PNC.NS,Pritish Nandy Communications Limited
+MONOPHARMA.NS,Mono Pharmacare Limited
+VERTEXPLUS.NS,Vertexplus Technologies Limited
+MVKAGRO.NS,M.V.K. Agro Food Product Limited
+SVPGLOB.NS,SVP GLOBAL TEXTILES LIMITED
+DIL.NS,Debock Industries Limited
+BALKRISHNA.NS,Balkrishna Paper Mills Limited
+MARCO.NS,Marco Cables & Conductors Limited
+ORIENTLTD.NS,Orient Press Limited
+RILINFRA.NS,Rachana Infrastructure Limited
+SPYL.NS,Shekhawati Poly-Yarn Limited
+GTECJAINX.NS,G-TEC JAINX EDUCATION LIMITED
+YUDIZ.NS,Yudiz Solutions Limited
+AGROPHOS.NS,Agro Phos India Limited
+SHUBHLAXMI.NS,Shubhlaxmi Jewel Art Limited
+MCON.NS,Mcon Rasayan India Limited
+AMBANIORG.NS,Ambani Organics Limited
+AISL.NS,ANI Integrated Services Limited
+CPS.NS,C P S Shapers Limited
+HOVS.NS,HOV Services Limited
+KANANIIND.NS,Kanani Industries Limited
+SHIVAMILLS.NS,Shiva Mills Limited
+PRUDMOULI.NS,Prudential Sugar Corporation Limited
+SCML.NS,Sharp Chucks and Machines Limited
+AATMAJ.NS,Aatmaj Healthcare Limited
+KTL.NS,Kalahridhaan Trendz Limited
+CEREBRAINT.NS,Cerebra Integrated Technologies Limited
+EXCEL.NS,Excel Realty N Infra Limited
+SHEETAL.NS,Sheetal Universal Limited
+GRAPHISAD.NS,Graphisads Limited
+HECPROJECT.NS,HEC Infra Projects Limited
+SECURCRED.NS,SecUR Credentials Limited
+AROGRANITE.NS,Aro Granite Industries Limited
+MADHUCON.NS,Madhucon Projects Limited
+WEWIN.NS,WE WIN LIMITED
+KKVAPOW.NS,KKV Agro Powers Limited
+RELIABLE.NS,Reliable Data Services Limited
+AKSHAR.NS,Akshar Spintex Limited
+DHTL.NS,Docmode Health Technologies Limited
+PERFECT.NS,Perfect Infraengineers Limited
+MILTON.NS,Milton Industries Limited
+GOLDENTOBC.NS,Golden Tobacco Limited
+LEXUS.NS,Lexus Granito (India) Limited
+MAGSON.NS,Magson Retail And Distribution Limited
+SERVICE.NS,Service Care Limited
+ROML.NS,Raj Oil Mills Limited
+NGIL.NS,Nakoda Group of Industries Limited
+CLSL.NS,Crop Life Science Limited
+OMFURN.NS,Omfurn India Limited
+VIAZ.NS,Viaz Tyres Limited
+TRIDHYA.NS,Tridhya Tech Limited
+BANG.NS,Bang Overseas Limited
+MORARJEE.NS,Morarjee Textiles Limited
+MANUGRAPH.NS,Manugraph India Limited
+MALUPAPER.NS,Malu Paper Mills Limited
+UCL.NS,Ushanti Colour Chem Limited
+SIDDHIKA.NS,Siddhika Coatings Limited
+JAIPURKURT.NS,Nandani Creation Limited
+SPTL.NS,Sintex Plastics Technology Limited
+CELLPOINT.NS,Cell Point (India) Limited
+MICROPRO.NS,Micropro Software Solutions Limited
+COMMITTED.NS,Committed Cargo Care Limited
+HBSL.NS,HB Stockholdings Limited
+BANARBEADS.NS,Banaras Beads Limited
+SANGANI.NS,Sangani Hospitals Limited
+BDR.NS,BDR Buildcon Limited
+JETFREIGHT.NS,Jet Freight Logistics Limited
+MARSHALL.NS,Marshall Machines Limited
+ABMINTLLTD.NS,ABM International Limited
+TERASOFT.NS,Tera Software Limited
+AKG.NS,Akg Exim Limited
+PEARLPOLY.NS,Pearl Polymers Limited
+PODDARHOUS.NS,Poddar Housing and Development Limited
+SHANTHALA.NS,Shanthala FMCG Products Limited
+AARVEEDEN.NS,Aarvee Denims & Exports Limited
+REXPIPES.NS,Rex Pipes And Cables Industries Limited
+JETKNIT.NS,Jet Knitwears Limited
+ENSER.NS,Enser Communications Limited
+SHRENIK.NS,Shrenik Limited
+DNAMEDIA.NS,Diligent Media Corporation Limited
+MASTER.NS,Master Components Limited
+ACSAL.NS,Arvind and Company Shipping Agencies Limited
+SILGO.NS,Silgo Retail Limited
+AKASH.NS,Akash Infra-Projects Limited
+SEYAIND.NS,Seya Industries Limited
+AJOONI.NS,Ajooni Biotech Limited
+TFL.NS,Transwarranty Finance Limited
+TAPIFRUIT.NS,Tapi Fruit Processing Limited
+LFIC.NS,Lakshmi Finance & Industrial Corporation Limited
+WOMANCART.NS,Womancart Limited
+ASLIND.NS,ASL Industries Limited
+TIMESCAN.NS,Timescan Logistics (India) Limited
+ANKITMETAL.NS,Ankit Metal & Power Limited
+ICDSLTD.NS,ICDS Limited
+YCCL.NS,Yasons Chemex Care Limited
+UMA.NS,Uma Converter Limited
+WALPAR.NS,Walpar Nutritions Limited
+SONUINFRA.NS,Sonu Infratech Limited
+SEL.NS,Sungarner Energies Limited
+LIBAS.NS,Libas Consumer Products Limited
+3PLAND.NS,3P Land Holdings Limited
+BURNPUR.NS,Burnpur Cement Limited
+SITINET.NS,Siti Networks Limited
+RKDL.NS,Ravi Kumar Distilleries Limited
+MAKS.NS,Maks Energy Solutions India Limited
+SRPL.NS,Shree Ram Proteins Limited
+BMETRICS.NS,Bombay Metrics Supply Chain Limited
+ITALIANE.NS,Italian Edibles Limited
+LAXMICOT.NS,Laxmi Cotspin Limited
+UWCSL.NS,Ultra Wiring Connectivity System Limited
+TNTELE.NS,Tamilnadu Telecommunication Limited
+AMBICAAGAR.NS,Ambica Agarbathies & Aroma industries Limited
+ASHOKAMET.NS,Ashoka Metcast Limited
+ADL.NS,Archidply Decor Limited
+KHANDSE.NS,Khandwala Securities Limited
+VINEETLAB.NS,Vineet Laboratories Limited
+TECHIN.NS,Techindia Nirman Limited
+PATTECH.NS,Pattech Fitwell Tube Components Limited
+CBAZAAR.NS,Net Avenue Technologies Limited
+BINANIIND.NS,Binani Industries Limited
+21STCENMGM.NS,21st Century Management Services Limited
+KRIDHANINF.NS,Kridhan Infra Limited
+GODHA.NS,Godha Cabcon & Insulation Limited
+JFLLIFE.NS,Jfl Life Sciences Limited
+ISHAN.NS,Ishan International Limited
+NEXTMEDIA.NS,Next Mediaworks Limited
+SUULD.NS,Suumaya Industries Limited
+ARISTO.NS,Aristo Bio-Tech And Lifescience Limited
+TGBHOTELS.NS,TGB Banquets And Hotels Limited
+DKEGL.NS,D.K. Enterprises Global Limited
+MARINETRAN.NS,Marinetrans India Limited
+DESTINY.NS,Destiny Logistics & Infra Limited
+FLFL.NS,Future Lifestyle Fashions Limited
+ARSSINFRA.NS,ARSS Infrastructure Projects Limited
+ONELIFECAP.NS,Onelife Capital Advisors Limited
+INSPIRE.NS,Inspire Films Limited
+VSCL.NS,Vadivarhe Speciality Chemicals Limited
+SGL.NS,STL Global Limited
+EDUCOMP.NS,Educomp Solutions Limited
+SAGARDEEP.NS,Sagardeep Alloys Limited
+ROLLT.NS,Rollatainers Limited
+KONTOR.NS,Kontor Space Limited
+SHAIVAL.NS,Shaival Reality Limited
+AGARWALFT.NS,Agarwal Float Glass India Limited
+TECILCHEM.NS,TECIL Chemicals and Hydro Power Limited
+CMRSL.NS,Cyber Media Research & Services Limited
+NIDAN.NS,Nidan Laboratories and Healthcare Limited
+UNIINFO.NS,Uniinfo Telecom Services Limited
+COUNCODOS.NS,Country Condo's Limited
+AMEYA.NS,Ameya Precision Engineers Limited
+SUPERSPIN.NS,Super Spinning Mills Limited
+CYBERMEDIA.NS,Cyber Media (India) Limited
+TIJARIA.NS,Tijaria Polypipes Limited
+WILLAMAGOR.NS,Williamson Magor & Company Limited
+GSTL.NS,Globesecure Technologies Limited
+COMPINFO.NS,Compuage Infocom Limited
+MINDPOOL.NS,Mindpool Technologies Limited
+POLYSIL.NS,Polysil Irrigation Systems Limited
+HAVISHA.NS,Sri Havisha Hospitality and Infrastructure Limited
+JIWANRAM.NS,Jiwanram Sheoduttrai Industries Limited
+MADHAV.NS,Madhav Marbles and Granites Limited
+NKIND.NS,NK Industries Limited
+SANGINITA.NS,Sanginita Chemicals Limited
+MEGAFLEX.NS,Mega Flex Plastics Limited
+ADROITINFO.NS,Adroit Infotech Limited
+FMNL.NS,Future Market Networks Limited
+HEADSUP.NS,Heads UP Ventures Limited
+KEEPLEARN.NS,DSJ Keep Learning Limited
+ACEINTEG.NS,Ace Integrated Solutions Limited
+VIVIDHA.NS,Visagar Polytex Limited
+KCK.NS,Kck Industries Limited
+SABAR.NS,Sabar Flex India Limited
+AGUL.NS,A G Universal Limited
+FSC.NS,Future Supply Chain Solutions Limited
+GATECH.NS,GACM Technologies Limited
+IMPEXFERRO.NS,Impex Ferro Tech Limited
+QFIL.NS,Quality Foils (India) Limited
+KHAITANLTD.NS,Khaitan (India) Limited
+NARMADA.NS,Narmada Agrobase Limited
+FEL.NS,Future Enterprises Limited
+GRETEX.NS,Gretex Industries Limited
+VIJIFIN.NS,Viji Finance Limited
+BOHRAIND.NS,Bohra Industries Limited
+MOXSH.NS,Moxsh Overseas Educon Limited
+MOHITIND.NS,Mohit Industries Limited
+VILINBIO.NS,Vilin Bio Med Limited
+HRHNEXT.NS,HRH Next Services Limited
+SUNREST.NS,Sunrest Lifescience Limited
+SPRL.NS,Sp Refractories Limited
+SUMEETINDS.NS,Sumeet Industries Limited
+HYBRIDFIN.NS,Hybrid Financial Services Limited
+VERA.NS,Vera Synthetic Limited
+SAHAJ.NS,Sahaj Fashions Limited
+GOENKA.NS,Goenka Diamond and Jewels Limited
+QUADPRO.NS,Quadpro Ites Limited
+ANTGRAPHIC.NS,Antarctica Limited
+INDIFRA.NS,Indifra Limited
+ORIENTALTL.NS,Oriental Trimex Limited
+LCCINFOTEC.NS,LCC Infotech Limited
+LRRPL.NS,Lead Reclaim And Rubber Products Limited
+MASKINVEST.NS,Mask Investments Limited
+OLIL.NS,Oneclick Logistics India Limited
+KAVVERITEL.NS,Kavveri Telecom Products Limited
+MITTAL.NS,Mittal Life Style Limited
+GUJRAFFIA.NS,Gujarat Raffia Industries Limited
+KSHITIJPOL.NS,Kshitij Polyline Limited
+CONTI.NS,Continental Seeds and Chemicals Limited
+GLFL.NS,Gujarat Lease Financing Limited
+NTL.NS,Neueon Towers Limited
+CALSOFT.NS,California Software Company Limited
+AILIMITED.NS,Abhishek Integrations Limited
+KANDARP.NS,Kandarp Digi Smart BPO Limited
+PLADAINFO.NS,Plada Infotech Services Limited
+MTEDUCARE.NS,MT Educare Limited
+WINSOME.NS,Winsome Yarns Limited
+KAUSHALYA.NS,Kaushalya Infrastructure Development Corporation Limited
+DRL.NS,Dhanuka Realty Limited
+BRIGHT.NS,Bright Solar Limited
+NAGREEKCAP.NS,Nagreeka Capital & Infrastructure Limited
+TVVISION.NS,TV Vision Limited
+VCL.NS,Vaxtex Cotfab Limited
+TRANSWIND.NS,Transwind Infrastructures Limited
+DIGJAMLMTD.NS,Digjam Limited
+RITEZONE.NS,Rite Zone Chemcon India Limited
+METALFORGE.NS,Metalyst Forgings Limited
+SHANTI.NS,Shanti Overseas (India) Limited
+LYPSAGEMS.NS,Lypsa Gems & Jewellery Limited
+RICHA.NS,Richa Info Systems Limited
+MANAV.NS,Manav Infra Projects Limited
+NORBTEAEXP.NS,Norben Tea & Exports Limited
+TARAPUR.NS,Tarapur Transformers Limited
+BLUECHIP.NS,Blue Chip India Limited
+VIVO.NS,Vivo Collaboration Solutions Limited
+ORTINLAB.NS,Ortin Laboratories Limited
+SAROJA.NS,Saroja Pharma Industries India Limited
+JAKHARIA.NS,JAKHARIA FABRIC LIMITED
+MPTODAY.NS,Madhya Pradesh Today Media Limited
+SILLYMONKS.NS,Silly Monks Entertainment Limited
+EUROTEXIND.NS,Eurotex Industries and Exports Limited
+AMIABLE.NS,Amiable Logistics (India) Limited
+UMESLTD.NS,Usha Martin Education & Solutions Limited
+OMKARCHEM.NS,Omkar Speciality Chemicals Limited
+KALYANI.NS,Kalyani Commercials Limited
+ARENTERP.NS,Rajdarshan Industries Limited
+BKMINDST.NS,Bkm Industries Limited
+NIRAJISPAT.NS,Niraj Ispat Industries Limited
+INNOVATIVE.NS,Innovative Tyres and Tubes Limited
+ACCORD.NS,Accord Synergy Limited
+SHYAMTEL.NS,Shyam Telecom Limited
+SMVD.NS,SMVD Poly Pack Limited
+DCMFINSERV.NS,DCM Financial Services Limited
+PREMIER.NS,Premier Limited
+CREATIVEYE.NS,Creative Eye Limited
+AHIMSA.NS,Ahimsa Industries Limited
+ABNINT.NS,A B N Intercorp Limited
+ALPSINDUS.NS,Alps Industries Limited
+MELSTAR.NS,Melstar Information Technologies Limited
+JALAN.NS,Jalan Transolutions (India) Limited
+SABEVENTS.NS,Sab Events & Governance Now Media Limited
+SANCO.NS,Sanco Industries Limited
+BHALCHANDR.NS,Bhalchandram Clothing Limited
+LAKPRE.NS,Lakshmi Precision Screws Limited
+VASA.NS,Vasa Retail and Overseas Ltd
+CMMIPL.NS,CMM Infraprojects Limited
+ABHISHEK.NS,Abhishek Corporation Limited
+AHLWEST.NS,Asian Hotels (West) Limited
+AIFL.NS,Ashapura Intimates Fashion Limited
+AJRINFRA.NS,AJR INFRA AND TOLLING LIMITED
+ALCHEM.NS,Alchemist Limited
+AMJUMBO.NS,A and M Jumbo Bags Limited
+ANSALAPI.NS,Ansal Properties & Infrastructure Limited
+ARCOTECH.NS,Arcotech Limited
+ARTEDZ.NS,Artedz Fabs Limited
+ASIL.NS,Amit Spinning Industries Limited
+ATCOM.NS,Atcom Technologies Limited
+ATLASCYCLE.NS,Atlas Cycles (Haryana) Limited
+ATNINTER.NS,ATN International Limited
+BALLARPUR.NS,Ballarpur Industries Limited
+BANSAL.NS,Bansal Multiflex Limited
+BGLOBAL.NS,Bharatiya Global Infomedia Limited
+BHARATIDIL.NS,Bharati Defence and Infrastructure Limited
+BILENERGY.NS,Bil Energy Systems Limited
+BIRLATYRE.NS,Birla Tyres Limited
+BLUEBLENDS.NS,Blue Blends (I) Limited
+BLUECOAST.NS,Blue Coast Hotels Limited
+BRFL.NS,Bombay Rayon Fashions Limited
+CANDC.NS,C & C Constructions Limited
+CCCL.NS,Consolidated Construction Consortium Limited
+CELESTIAL.NS,Celestial Biolabs Limited
+CKFSL.NS,Cox & Kings Financial Service Limited
+CMICABLES.NS,CMI Limited
+CURATECH.NS,Cura Technologies Limited
+DHARSUGAR.NS,Dharani Sugars & Chemicals Limited
+DQE.NS,DQ Entertainment (International) Limited
+DSKULKARNI.NS,DS Kulkarni Developers Limited
+EASTSILK.NS,Eastern Silk Industries Limited
+EASTSUGIND.NS,Eastern Sug & Inds Limited
+EASUNREYRL.NS,Easun Reyrolle Limited
+EON.NS,Eon Electric Limited
+EUROCERA.NS,Euro Ceramics Limited
+EUROMULTI.NS,Euro Multivision Limited
+FEDDERELEC.NS,Fedders Electric and Engineering Limited
+FIVECORE.NS,Five Core Electronics Limited
+GAMMONIND.NS,Gammon India Limited
+GANGOTRI.NS,Gangotri Textiles Limited
+GAYAHWS.NS,Gayatri Highways Limited
+GAYAPROJ.NS,Gayatri Projects Limited
+GBGLOBAL.NS,GB Global Limited
+GFSTEELS.NS,Grand Foundry Limited
+GITANJALI.NS,Gitanjali Gems Limited
+HDIL.NS,Housing Development and Infrastructure Limited
+HINDNATGLS.NS,Hindusthan National Glass & Industries Limited
+ICSA.NS,ICSA (India) Limited
+INDLMETER.NS,IMP Powers Limited
+INDOSOLAR.NS,Indosolar Limited
+INDUSFILA.NS,Indus Fila Limited
+INFOMEDIA.NS,Infomedia Press Limited
+INSPIRISYS.NS,Inspirisys Solutions Limited
+IVRCLINFRA.NS,IVRCL Limited
+JAINSTUDIO.NS,Jain Studios Limited
+JBFIND.NS,JBF Industries Limited
+JIKIND.NS,JIK Industries Limited
+JINDCOT.NS,Jindal Cotex Limited
+JPINFRATEC.NS,Jaypee Infratech Limited
+KGL.NS,Karuturi Global Limited
+KSERASERA.NS,KSS Limited
+KSK.NS,KSK Energy Ventures Limited
+LAKSHMIEFL.NS,Lakshmi Energy and Foods Limited
+LEEL.NS,LEEL Electricals Limited
+MANPASAND.NS,Manpasand Beverages Limited
+MCDHOLDING.NS,McDowell Holdings Limited
+MERCATOR.NS,Mercator Limited
+METKORE.NS,Metkore Alloys & Industries Limited
+MVL.NS,MVL Limited
+NAKODA.NS,Nakoda Limited
+NITINFIRE.NS,Nitin Fire Protection Industries Limited
+NUTEK.NS,Nu Tek India Limited
+OPAL.NS,Opal Luxury Time Products Limited
+OPTOCIRCUI.NS,Opto Circuits (India) Limited
+ORTEL.NS,Ortel Communications Limited
+PDPL.NS,Parenteral Drugs (India) Limited
+PENTAGOLD.NS,Penta Gold Limited
+PINCON.NS,Pincon Spirit Limited
+PRATIBHA.NS,Pratibha Industries Limited
+PUNJLLOYD.NS,Punj Lloyd Limited
+QUINTEGRA.NS,Quintegra Solutions Limited
+RADAAN.NS,Radaan Mediaworks India Limited
+RAINBOWPAP.NS,Rainbow Papers Limited
+RAJVIR.NS,Rajvir Industries Limited
+RCOM.NS,Reliance Communications Limited
+RELCAPITAL.NS,Reliance Capital Limited
+RMCL.NS,Radha Madhav Corporation Limited
+RMMIL.NS,Resurgere Mines & Minerals Limited
+RNAVAL.NS,Reliance Naval and Engineering Limited
+ROLTA.NS,Rolta India Limited
+RUSHABEAR.NS,Rushabh Precision Bearings Limited
+SABTN.NS,Sri Adhikari Brothers Television Network Limited
+SANWARIA.NS,Sanwaria Consumer Limited
+SATHAISPAT.NS,Sathavahana Ispat Limited
+SBIHOMEFIN.NS,SBI Home Finance Limited
+SETUINFRA.NS,Setubandhan Infrastructure Limited
+SHIRPUR-G.NS,Shirpur Gold Refinery Limited
+SIIL.NS,Supreme (India) Impex Limited
+SKIL.NS,SKIL Infrastructure Limited
+SKSTEXTILE.NS,SKS Textiles Limited
+SONISOYA.NS,Soni Soya Products Limited
+SPENTEX.NS,Spentex Industries Limited
+SRIRAM.NS,Shri Ram Switchgears Limited
+SSINFRA.NS,S.S. Infrastructure Development Consultants Limited
+SUPREMEENG.NS,Supreme Engineering Limited
+TALWALKARS.NS,Talwalkars Better Value Fitness Limited
+TALWGYM.NS,Talwalkars Healthclubs Limited
+TANTIACONS.NS,Tantia Constructions Limited
+TCIFINANCE.NS,TCI Finance Limited
+TECHNOFAB.NS,Technofab Engineering Limited
+TULSI.NS,Tulsi Extrusions Limited
+UJAAS.NS,Ujaas Energy Limited
+UNIPLY.NS,Uniply Industries Limited
+UNITY.NS,Unity Infraprojects Limited
+UNIVAFOODS.NS,Univa Foods Limited
+VALECHAENG.NS,Valecha Engineering Limited
+VALUEIND.NS,Value Industries Limited
+VICEROY.NS,Viceroy Hotels Limited
+VIDEOIND.NS,Videocon Industries Limited
+VISASTEEL.NS,Visa Steel Limited
+VISUINTL.NS,Visu International Limited
+VIVIMEDLAB.NS,Vivimed Labs Limited
+ZICOM.NS,Zicom Electronic Security Systems Limited

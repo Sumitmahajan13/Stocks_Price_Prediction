@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stock Prediction Result</title>
+    <link rel="icon" href="/static/image/logo.png" />
+    <link rel="stylesheet" href="/static/style_result.css" />
+    <script
+      src="https://kit.fontawesome.com/3fd0393677.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="nav-content">
+        <div class="logo">
+          <a href="{{ url_for('home') }}">
+            <img src="/static/image/logo.png" alt="Logo" />
+          </a>
+        </div>
+        <div class="nav-links">
+          <a href="{{ url_for('home') }}" class="nav-link">
+            <i class="fa-solid fa-circle-info"></i>
+            <span>About Project</span>
+          </a>
+          <a href="{{ url_for('home') }}" class="nav-link">
+            <i class="fa-solid fa-people-group"></i>
+            <span>Team Members</span>
+          </a>
+        </div>
+      </div>
+    </nav>
+
+    <main class="main-content">
+      <header class="page-header">
+        <h1>Stock Prediction Result</h1>
+      </header>
+
+      <section class="stock-overview">
+        <div class="stock-header">
+          <h2>{{ stock_info.longName }}</h2>
+          <div class="stock-symbol">{{ stock_info.symbol }}</div>
+          <div class="current-price">
+            <span class="label">Current Price:</span>
+            <span class="value">{{ stock_info.currentPrice }}</span>
+          </div>
+        </div>
+
+        <div class="stock-grid">
+          <div class="info-card">
+            <h3>Company Info</h3>
+            <div class="info-content">
+              <div class="info-item">
+                <span class="label">Sector:</span>
+                <span class="value">{{ stock_info.sector }}</span>
+              </div>
+              <div class="info-item">
+                <span class="label">Industry:</span>
+                <span class="value">{{ stock_info.industry }}</span>
+              </div>
+              <div class="info-item">
+                <span class="label">Currency:</span>
+                <span class="value">{{ stock_info.currency }}</span>
+              </div>
+              <div class="info-item website">
+                <span class="label">Website:</span>
+                <a href="{{ stock_info.website }}" target="_blank" class="value"
+                  >{{ stock_info.website }}</a
+                >
+              </div>
+            </div>
+          </div>
+
+          <div class="info-card">
+            <h3>Trading Info</h3>
+            <div class="info-content">
+              <div class="info-item">
+                <span class="label">Previous Close:</span>
+                <span class="value" id="previous-close"
+                  >{{ stock_details.previous_close }}</span
+                >
+              </div>
+              <div class="info-item">
+                <span class="label">Open:</span>
+                <span class="value" id="open">{{ stock_details.open }}</span>
+              </div>
+              <div class="info-item">
+                <span class="label">Bid:</span>
+                <span class="value" id="bid">{{ stock_details.bid }}</span>
+              </div>
+              <div class="info-item">
+                <span class="label">Ask:</span>
+                <span class="value" id="ask">{{ stock_details.ask }}</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="info-card">
+            <h3>Market Data</h3>
+            <div class="info-content">
+              <div class="info-item">
+                <span class="label">Market Cap:</span>
+                <span class="value">{{ stock_details.market_cap }}</span>
+              </div>
+              <div class="info-item">
+                <span class="label">Volume:</span>
+                <span class="value">{{ stock_details.volume }}</span>
+              </div>
+              <div class="info-item">
+                <span class="label">Avg. Volume:</span>
+                <span class="value">{{ stock_details.avg_volume }}</span>
+              </div>
+              <div class="info-item">
+                <span class="label">Beta (5Y):</span>
+                <span class="value">{{ stock_details.beta }}</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="info-card">
+            <h3>Key Statistics</h3>
+            <div class="info-content">
+              <div class="info-item">
+                <span class="label">PE Ratio:</span>
+                <span class="value">{{ stock_details.pe_ratio }}</span>
+              </div>
+              <div class="info-item">
+                <span class="label">EPS:</span>
+                <span class="value">{{ stock_details.eps }}</span>
+              </div>
+              <div class="info-item">
+                <span class="label">Forward Dividend Yield:</span>
+                <span class="value"id="forward-dividend-yield">{{ stock_details.forward_dividend_yield }}</span>
+              </div>
+              <div class="info-item">
+                <span class="label">Ex-Dividend Date:</span>
+                <span class="value" id="ex-dividend-date">{{ stock_details.ex_dividend_date }}</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="info-card">
+            <h3>Price Ranges</h3>
+            <div class="info-content">
+              <div class="info-item">
+                <span class="label">52 Week Range:</span>
+                <span class="value">{{ stock_details['52_week_range'] }}</span>
+              </div>
+              <div class="info-item">
+                <span class="label">Day's Range:</span>
+                <span class="value">{{ stock_details.days_range }}</span>
+              </div>
+              <div class="info-item">
+                <span class="label">1Y Target Est:</span>
+                <span class="value">{{ stock_details['1y_target_est'] }}</span>
+              </div>
+              <div class="info-item">
+                <span class="label">Book Value:</span>
+                <span class="value">{{ stock_details.bookValue}}</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="company-summary">
+          <h3>Company Summary</h3>
+          <p>{{ stock_info.longBusinessSummary }}</p>
+        </div>
+      </section>
+
+      <section class="major-holders-section">
+        <h2>Major Holders</h2>
+        <div class="holders-container">{{ major_holders | safe }}</div>
+      </section>
+
+      <section class="charts-section">
+        <h2>Technical Analysis</h2>
+        <div class="charts-grid">
+          <div class="chart-card">
+            <h3>Price History</h3>
+            <div class="chart-container">
+              <img
+                src="data:image/png;base64,{{ fig1 }}"
+                alt="Closing Price vs Time Chart"
+              />
+            </div>
+          </div>
+
+          <div class="chart-card">
+            <h3>100-Day Moving Average</h3>
+            <div class="chart-container">
+              <img
+                src="data:image/png;base64,{{ fig2 }}"
+                alt="Closing Price with 100MA"
+              />
+            </div>
+          </div>
+
+          <div class="chart-card">
+            <h3>Technical Indicators</h3>
+            <div class="chart-container">
+              <img
+                src="data:image/png;base64,{{ fig3 }}"
+                alt="Price with 100 & 200 MA"
+              />
+            </div>
+          </div>
+
+          <div class="chart-card">
+            <h3>Prediction Analysis</h3>
+            <div class="chart-container">
+              <img
+                src="data:image/png;base64,{{ fig4 }}"
+                alt="Prediction vs Actual"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="metrics-section">
+        <h2>Model Performance</h2>
+        <div class="metrics-grid">
+          <div class="metric-card">
+            <h3>Mean Absolute Error</h3>
+            <div class="metric-value">{{ mae | round(2) }}</div>
+          </div>
+          <div class="metric-card">
+            <h3>Mean Squared Error</h3>
+            <div class="metric-value">{{ mse | round(2) }}</div>
+          </div>
+          <div class="metric-card">
+            <h3>Model Accuracy</h3>
+            <div class="metric-value">{{ accuracy | round(2) }}</div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-content">
+        <div class="footer-copyright">© Stock Price Prediction 2024</div>
+        <div class="footer-social">
+          <a href="#" class="social-link"
+            ><i class="fa-brands fa-instagram"></i
+          ></a>
+          <a href="#" class="social-link"
+            ><i class="fa-brands fa-facebook"></i
+          ></a>
+          <a href="#" class="social-link"
+            ><i class="fa-brands fa-twitter"></i
+          ></a>
+          <a href="#" class="social-link"
+            ><i class="fa-solid fa-envelope"></i
+          ></a>
+        </div>
+      </div>
+    </footer>
+    <script>
+      /**
+       * Function to fetch and update stock details on the webpage
+       * @param {string} symbol - Stock symbol to fetch details for
+       */
+      function updateStockDetails(symbol) {
+        $.ajax({
+          url: "/get_stock_details",
+          method: "GET",
+          data: { symbol: symbol },
+          success: function (data) {
+            if (data.error) {
+              console.error("Error:", data.error);
+              return;
+            }
+
+            // Update Ex-Dividend Date
+            $("#ex-dividend-date").text(data.ex_dividend_date || "N/A");
+
+            // Update Forward Dividend Yield
+            $("#forward-dividend-yield").text(
+              data.forward_dividend_yield || "N/A"
+            );
+
+            // Update the "Current Price" dynamically
+            $(".current-price .value").text(data.current_price || "N/A");
+
+            // Dynamically update other stock details on the page
+            $("#previous-close").text(data.previous_close || "N/A");
+            $("#open").text(data.open || "N/A");
+            $("#bid").text(data.bid || "N/A");
+            $("#ask").text(data.ask || "N/A");
+            $("#days-range").text(data.days_range || "N/A");
+            $("#volume").text(data.volume || "N/A");
+            $("#market-cap").text(data.market_cap || "N/A");
+            $("#52-week-range").text(data["52_week_range"] || "N/A");
+            $("#1y-target-est").text(data["1y_target_est"] || "N/A");
+            $("#book-value").text(data.bookValue || "N/A");
+          },
+          error: function (err) {
+            console.error("Error fetching stock details:", err);
+          },
+        });
+      }
+
+      // Extract the stock symbol from a templating variable
+      const stockSymbol = "{{ stock_info.symbol }}";
+
+      // Periodically fetch and update stock details every 10 seconds
+      setInterval(() => {
+        updateStockDetails(stockSymbol);
+      }, 1000);
+    </script>
+  </body>
+</html>
