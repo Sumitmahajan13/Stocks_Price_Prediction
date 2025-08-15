@@ -76,7 +76,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/KingRK786/Stock_Price_Prediction.git
+git clone https://github.com/Sumitmahajan13/Stocks_Price_Prediction
 cd Stock_Price_Prediction
 
 # 2️⃣ Create a virtual environment
